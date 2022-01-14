@@ -28,8 +28,8 @@ Steps to create your username:
    5.  Choose your own username and password
    6.  Enter the username information in the SDSC form
 
-### 3. Confirm Enrollment and submit your PortalID (Google Form):
-* [https://tinyurl.com/hpc-user-training-signup](https://tinyurl.com/hpc-user-training-signup)
+### 3. Confirm Enrollment and submit your PortalID using the Google Form:
+* [https://bit.ly/hpc-user-training-reg-2022](https://bit.ly/hpc-user-training-reg-2022)
 * Be sure to enter your XSEDE PortalID
 
 ### 4. Once you have confirmed your enrollment and given us your XSEDE PortalID:
