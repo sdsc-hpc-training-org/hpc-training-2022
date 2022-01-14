@@ -1,23 +1,22 @@
-# SDSC HPC User Training 2021
+# SDSC HPC User Training 2022
 
-**WEEK 1: Jan 22, 2021**
+**WEEK 1: Jan 14, 2022**
 
 ## TOPIC:  Kickoff and Orientation
 **Presented By:** [Mary Thomas, SDSC](https://hpc-students.sdsc.edu/instr_bios/mary_thomas.html)  (mpthomas at ucsd.edu)
 
 ## READING AND PRESENTATIONS:
 * **Lecture material:** 
-   * [HPC User Training - Overview](./hpc-overview-jan2021.pdf)
-   * [HPC User Training - Week1 - Updates](./HPC_UT21_Week1_Updates_01_22_21.pdf)
+   * [to be uploaded]()
 * **Video Recording:** 
-   * [Interactive Video](https://education.sdsc.edu/training/hpc_user_training_2021/week1)
-   * [YouTube Video](https://youtu.be/C9GIJLimbYg)
+   * [Interactive Video - TBD]()
 * **Source Code/Examples:** [N/A]()
 
 ## WEEK 1 TASKS:
 
 ### 1. Register for the HPC Training:
-[https://na.eventscloud.com/website/21055/home/](https://na.eventscloud.com/website/21055/home/)
+This task is completed. Registration is closed.
+[hhttps://na.eventscloud.com/ereg/inactive.php?eventid=650572](https://na.eventscloud.com/ereg/inactive.php?eventid=650572)
 
 
 ### 2. Setup XSEDE Portal Account: [https://portal.xsede.org](http://portal.xsede.org)
