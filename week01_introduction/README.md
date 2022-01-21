@@ -9,7 +9,7 @@
 * **Lecture material:** 
    * [to be uploaded]()
 * **Video Recording:** 
-   * [Interactive Video - TBD]()
+   * [Interactive Video](https://education.sdsc.edu/training/interactive/hpc_user_training_2022/week1/)
 * **Source Code/Examples:** [N/A]()
 
 ## WEEK 1 TASKS:
