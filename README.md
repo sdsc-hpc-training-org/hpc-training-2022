@@ -1,7 +1,7 @@
 # hpc-training-2022
 Repository for training material for the 2021 SDSC HPC User Training Course
 
-## HPC User Training home
+## HPC/ CI Training Series home
 https://www.sdsc.edu/event_items/202201_HPC-CI-Training-Series.html
 
 ## <a name="top">**AGENDA (tent):**
@@ -10,7 +10,7 @@ Learn about tools and computing concepts necessary for HPC and CI systems
 | WEEK  | DATE | TOPIC | INSTRUCTOR |
 | :---------- |  :---------- | :---------- | :---------- |
 | Week 01 | Fri, 01/14/22 | Program Orientation, history, plan; Registration process & accounts | [Mary Thomas](#thomas)   |
-| Week 02 | Fri, 01/21/22 | Parallel Computing Concepts; HPC overview & Expanse Architecture  | [Bob Sinkovits](#sinkovits) |
+| Week 02 | Fri, 01/21/22 | Parallel Computing Concepts; HPC Overview & Expanse Architecture  | [Bob Sinkovits](#sinkovits) |
 | Week 03 | Fri, 01/28/22 | Data Management; Job Submission - Queues and batch scripting  | [Mahi Tatineni](#tatineni); [Mary Thomas](#thomas)  |
 | Week 04 | Fri, 02/04/22 | Kubernetes; Submitting jobs onto Pacific Research Platform (PRP)  | [Marty Kandes](#kandes)  |
 | Week 05 | Fri, 02/11/22 | Singularity Containers | [Marty Kandes](#kandes) |
