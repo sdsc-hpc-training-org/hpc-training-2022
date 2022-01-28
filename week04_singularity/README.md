@@ -1,4 +1,4 @@
-# SDSC HPC User Training 2022
+# SDSC HPC/CI Training Series 2022
 
 **WEEK X: DATE
 
@@ -8,8 +8,8 @@
 ## READING AND PRESENTATIONS:
 * **Lecture material:** 
    * [to be uploaded]()
-* **Video Recording:** 
-   * [Interactive Video]()
+* **Video Recording:** available in 3-5 days
+   * [Interactive Video] // [YouTube]
 * **Source Code/Examples:** [If applicable]()
 
 ## WEEK 1 TASKS:
