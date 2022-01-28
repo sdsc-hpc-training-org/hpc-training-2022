@@ -1,9 +1,9 @@
 # SDSC HPC/CI Training Series 2022
 
-**WEEK X: DATE
+**WEEK 4: February 4, 2022
 
 ## TOPIC: 
-**Presented By:** [Instructor, Institution](bioURL) ( email )
+**Presented By:** [Marty Kandes, SDSC](bioURL)
 
 ## READING AND PRESENTATIONS:
 * **Lecture material:** 
