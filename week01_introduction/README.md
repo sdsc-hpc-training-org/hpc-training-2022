@@ -1,4 +1,4 @@
-# SDSC HPC User Training 2022
+# SDSC HPC/CI Training Series 2022
 
 **WEEK 1: Jan 14, 2022**
 
@@ -9,7 +9,7 @@
 * **Lecture material:** 
    * [to be uploaded]()
 * **Video Recording:** 
-   * [Interactive Video](https://education.sdsc.edu/training/interactive/hpc_user_training_2022/week1/)
+   * [Interactive Video](https://education.sdsc.edu/training/interactive/hpc_user_training_2022/week1/) // [YouTube](https://youtu.be/AmkfITLet2I)
 * **Source Code/Examples:** [N/A]()
 
 ## WEEK 1 TASKS:
