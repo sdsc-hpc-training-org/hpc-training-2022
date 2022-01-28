@@ -1,7 +1,7 @@
 # hpc-training-2022
-Repository for training material for the 2021 SDSC HPC User Training Course
+Repository for training material for the 2021 SDSC HPC/CI Training Series Course
 
-## HPC User Training home
+## HPC/CI Training Series home
 https://www.sdsc.edu/event_items/202201_HPC-CI-Training-Series.html
 
 ## <a name="top">**AGENDA (tent):**
@@ -35,7 +35,7 @@ Learn about tools and computing concepts necessary for HPC and CI systems
 | Mahidhar Tatineni<a name="tatineni"></a> | Director of User Services [(bio)](https://www.sdsc.edu/research/researcher_spotlight/tatineni_mahidhar.html)   | SDSC |
 | Mary Thomas<a name="thomas"></a>  | Computational Data Scientist, Lead -  HPC Training  [(bio)]( https://www.sdsc.edu/research/researcher_spotlight/thomas_mary.html)| SDSC |
 | Jeffrey Weekly<a name="weekley"></a> | Research IT Engagement and Support Manager [bio](https://campusdirectory.ucsc.edu/cd_detail?uid=jweekley) | [University of California Santa Cruz](https://www.ucsc.edu/) |
-| Cindy Wong | Computational and Data Science Research Specialist [(bio)](https://www.linkedin.com/in/nicole-wolter-bbb94a3/)| SDSC |
+| Cindy Wong | Events Specialist | SDSC |
 | Nicole Wolter | Computational and Data Science Research Specialist [(bio)](https://www.linkedin.com/in/nicole-wolter-bbb94a3/)| SDSC |
 
 [Back to Top](#top)
