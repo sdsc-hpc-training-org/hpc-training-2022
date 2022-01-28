@@ -2,11 +2,11 @@
 
 **WEEK 3: January 28, 2022
 
-## TOPICS: TWO Topics this week:
-### Topic 1: Job Submission - Queues and batch scripting (#topic1)
-### Topic 2: Data Management (#topic2)
+## TOPICS: 2 Topics this week:
+* Topic 1: Job Submission - Queues and batch scripting (#topic1)
+* Topic 2: Data Management (#topic2)
 
-
+<hr>
 ### TOPIC 1:  Job Submission - Queues and batch scripting <a name="#topic1"></a>
 **Presented By:** [Mary Thomas, SDSC](https://www.sdsc.edu/research/researcher_spotlight/thomas_mary.html) ( mpthomas .at. ucsd.edu )
 
