@@ -1,4 +1,4 @@
-# SDSC HPC User Training 2022
+# SDSC HPC/CI Training Series 2022
 
 **WEEK 3: January 28, 2022**
 
