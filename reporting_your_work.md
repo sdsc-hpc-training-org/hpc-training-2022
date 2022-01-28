@@ -7,17 +7,17 @@ permissions as described below:
 2. Check that the group access is set to ``sds173``; if not, change the group and reset the access permissions:
 
 ```
-[username@login01 ~]$ mkdir hpctr21
-[username@login01 ~]$ cd hpctr21
+[username@login01 ~]$ mkdir hpctr22
+[username@login01 ~]$ cd hpctr22
 [username@login01 hpctr21]$ ls -al
 total 18
 drwxr-xr-x  2 username use300  2 Feb 19 11:51 .
 drwxr-x--- 28 username use300 47 Feb 19 11:51 ..
-[username@login01 hpctr21]$ chgrp sds173 .
-[username@login01 hpctr21]$ chmod g+s .
-[username@login01 hpctr21]$ mkdir week1_introduction
-[username@login01 hpctr21]$ mkdir week2_par_batch
-[username@login01 hpctr21]$ ls -al
+[username@login01 hpctr22]$ chgrp sds173 .
+[username@login01 hpctr22]$ chmod g+s .
+[username@login01 hpctr22]$ mkdir week1_introduction
+[username@login01 hpctr22]$ mkdir week2_par_batch
+[username@login01 hpctr22]$ ls -al
 total 19
 drwxr-sr-x  4 username sds173  4 Feb 19 12:10 .
 drwxr-x--- 28 username use300 47 Feb 19 12:03 ..
@@ -29,7 +29,7 @@ drwxr-sr-x  2 username sds173  2 Feb 19 12:10 week2_par_batch
 use the convention `week1_<your-description>`, e.g. `week1_introduction` .
 * This should result in a directory called 
 ```
-	/home/$USER/hpctr21/week1_<your-description>
+	/home/$USER/hpctr22/week1_<your-description>
 ```
 
 For questions or comments, contact Mary Thomas @ mpthomas  at  ucsd.edu
