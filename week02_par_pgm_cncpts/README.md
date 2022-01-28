@@ -15,12 +15,13 @@
 ## WEEK 1 TASKS:
 
 ### 1. Task 1
-Create a folder for this weeks exercises.  See the instructions here:  https://github.com/sdsc-hpc-training-org/hpc-training-2022/blob/main/reporting_your_work.md
-Clone the repository here:  https://github.com/sinkovit/Parallel-concepts in the week2 folder
+* Create a folder for this weeks exercises.  
+* See the instructions here:  https://github.com/sdsc-hpc-training-org/hpc-training-2022/blob/main/reporting_your_work.md
+* Clone the repository here:  https://github.com/sinkovit/Parallel-concepts in the week2 folder
 
 ### 2. task 2
-Run the Jupyter Notebook and follow instructions.
-For help on running notebooks, see instructions here: https://github.com/sdsc-hpc-training-org/basic_skills
+* Run the Jupyter Notebook and follow instructions.
+* For help on running notebooks, see instructions here: https://github.com/sdsc-hpc-training-org/basic_skills
 
 [Back to Top](#top)
 ______
