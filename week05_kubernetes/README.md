@@ -1,9 +1,9 @@
 # SDSC HPC/CI Training Series 2022
 
-**WEEK X: DATE
+**WEEK 5: February 11, 2022
 
 ## TOPIC: 
-**Presented By:** [Instructor, Institution](bioURL) ( email )
+**Presented By:** [Jeffrey Weekley, UC Santa Cruz](bioURL)
 
 ## READING AND PRESENTATIONS:
 * **Lecture material:** 
