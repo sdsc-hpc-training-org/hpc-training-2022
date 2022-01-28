@@ -13,8 +13,8 @@ ________
 ### READING AND PRESENTATIONS:
 * **Lecture material:** 
    * [to be uploaded]()
-* **Video Recording:** 
-   * [Interactive Video - available in 3-5 days]()
+* **Video Recording:** - available in 3-5 days
+   * [Interactive Video] // [YouTube]
 * **Source Code/Examples:** [If applicable]()
 
 ### Topic 1 TASKS:
