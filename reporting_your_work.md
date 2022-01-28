@@ -2,14 +2,14 @@
 We will track your work using automated scripts, so you need to name the directories and set 
 permissions as described below:
 
-1. Create a directory under your Expanse home account, and call it "hpctr21" (for HPC Training)
+1. Create a directory under your Expanse home account, and call it "hpctr22" (for HPC Training)
 
 2. Check that the group access is set to ``sds173``; if not, change the group and reset the access permissions:
 
 ```
 [username@login01 ~]$ mkdir hpctr22
 [username@login01 ~]$ cd hpctr22
-[username@login01 hpctr21]$ ls -al
+[username@login01 hpctr22]$ ls -al
 total 18
 drwxr-xr-x  2 username use300  2 Feb 19 11:51 .
 drwxr-x--- 28 username use300 47 Feb 19 11:51 ..
