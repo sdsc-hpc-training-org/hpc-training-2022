@@ -9,7 +9,7 @@
 * **Lecture material:** 
    * [https://github.com/sinkovit/Parallel-concepts](https://github.com/sinkovit/Parallel-concepts)
 * **Video Recording:** 
-   * [https://education.sdsc.edu/training/interactive/202201_parallel_computing_concepts/index.html](https://education.sdsc.edu/training/interactive/202201_parallel_computing_concepts/index.html)
+   * [Interactive Video](https://education.sdsc.edu/training/interactive/202201_parallel_computing_concepts/index.html) // [YouTube](https://youtu.be/WWMAx88pwlU?t=3)
 * **Source Code/Examples:** [If applicable]()
 
 ## WEEK 1 TASKS:
