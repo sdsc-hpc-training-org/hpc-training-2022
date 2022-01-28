@@ -2,7 +2,7 @@
 
 **WEEK 2: Jan 21, 2022
 
-## TOPIC: Parallel Computing Concepts; HPC overview & Expanse Architecture
+## TOPIC: Parallel Computing Concepts; HPC overview & Expanse Architecture<a name="top">
 **Presented By:** [Bob Sinkovits, SDSC](https://www.sdsc.edu/research/researcher_spotlight/sinkovits_robert.html) ( sinkovit@sdsc.edu )
 
 ## READING AND PRESENTATIONS:
@@ -22,6 +22,8 @@ Clone the repository here:  https://github.com/sinkovit/Parallel-concepts in the
 Run the Jupyter Notebook and follow instructions.
 For help on running notebooks, see instructions here: https://github.com/sdsc-hpc-training-org/basic_skills
 
+[Back to Top](#top)
+______
 ### Note: Reporting your work:
 If you are interested in getting CCR credit, or a certificate, we will track your work using automated scripts.
 You will need to name the directories and permissions as described in the ``reporting_your_work.md`` document here:
