@@ -19,11 +19,11 @@
 
 #### TOPIC 1 TASKS:
 
-* Task 1
+##### Task 1
 Task 1 description 
 
 
-* Task 2
+##### Task 2
 Task 2 description 
 
 <hr>
