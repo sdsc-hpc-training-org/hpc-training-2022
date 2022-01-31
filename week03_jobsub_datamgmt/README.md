@@ -14,7 +14,7 @@ ________
 * **Lecture material:** 
    * [to be uploaded]()
 * **Video Recording:**
-   * [Interactive Video] coming soon // [YouTube](https://youtu.be/T1502m6VwW4?t=3812)
+   * [Interactive Video](https://education.sdsc.edu/training/interactive/hpc_user_training_2022/week3/) / [YouTube](https://youtu.be/T1502m6VwW4?t=3812)
 * **Source Code/Examples:** [If applicable]()
 
 ### Topic 1 TASKS:
@@ -35,7 +35,7 @@ ________
 * **Lecture material:** 
    * [to be uploaded]()
 * **Video Recording:** 
-   * [Interactive Video] coming soon// [YouTube](https://youtu.be/T1502m6VwW4)
+   * [Interactive Video](https://education.sdsc.edu/training/interactive/hpc_user_training_2022/week3/) / [YouTube](https://youtu.be/T1502m6VwW4)
 * **Source Code/Examples:** [If applicable]()
 
 ### Topic 2 TASKS:
