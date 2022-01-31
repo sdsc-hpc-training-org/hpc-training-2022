@@ -13,8 +13,8 @@ ________
 ### READING AND PRESENTATIONS:
 * **Lecture material:** 
    * [to be uploaded]()
-* **Video Recording:** - available in 3-5 days
-   * [Interactive Video] // [YouTube]
+* **Video Recording:**
+   * [Interactive Video] coming soon // [YouTube](https://youtu.be/T1502m6VwW4?t=3812)
 * **Source Code/Examples:** [If applicable]()
 
 ### Topic 1 TASKS:
@@ -35,7 +35,7 @@ ________
 * **Lecture material:** 
    * [to be uploaded]()
 * **Video Recording:** 
-   * [Interactive Video - available in 3-5 days]()
+   * [Interactive Video] coming soon// [YouTube](https://youtu.be/T1502m6VwW4)
 * **Source Code/Examples:** [If applicable]()
 
 ### Topic 2 TASKS:
