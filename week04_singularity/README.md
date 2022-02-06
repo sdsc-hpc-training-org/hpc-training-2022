@@ -9,7 +9,7 @@
 * **Lecture material:** 
    * [to be uploaded]()
 * **Video Recording:** available in 3-5 days
-   * [Interactive Video] // [YouTube]
+   * [Interactive Video] // [YouTube](https://youtu.be/GlBqtLP4EHA)
 * **Source Code/Examples:** [If applicable]()
 
 ## WEEK 1 TASKS:
