@@ -7,9 +7,9 @@
 
 ## READING AND PRESENTATIONS:
 * **Lecture material:** 
-   * [to be uploaded]()
+   * [PDF](introduction-to-singularity.pdf)
 * **Video Recording:** available in 3-5 days
-   * [Interactive Video] // [YouTube](https://youtu.be/GlBqtLP4EHA)
+   * [Interactive Video](https://education.sdsc.edu/training/interactive/hpc_user_training_2022/week4/) // [YouTube](https://youtu.be/GlBqtLP4EHA)
 * **Source Code/Examples:** [If applicable]()
 
 ## WEEK 1 TASKS:
