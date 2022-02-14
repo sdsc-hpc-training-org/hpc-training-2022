@@ -9,7 +9,7 @@
 * **Lecture material:** 
    * https://github.com/sdsc-hpc-training-org/hpc-training-2022/blob/main/week05_kubernetes/SDSC-NautilusTutorial2022.pdf
 * **Video Recording:** available in 3-5 days
-   * [Interactive Video] // [YouTube]
+   * [Interactive Video] // [YouTube](https://youtu.be/eKPfZQNPQIk)
 * **Source Code/Examples:** [If applicable]()
 
 ## WEEK 1 TASKS:
