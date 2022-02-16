@@ -7,7 +7,7 @@
 
 ## READING AND PRESENTATIONS:
 * **Lecture material:** 
-   * [to be uploaded]()
+   * N/A
 * **Video Recording:** 
    * [Interactive Video](https://education.sdsc.edu/training/interactive/hpc_user_training_2022/week1/) // [YouTube](https://youtu.be/AmkfITLet2I)
 * **Source Code/Examples:** [N/A]()
