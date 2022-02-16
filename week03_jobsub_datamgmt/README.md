@@ -17,16 +17,12 @@ ________
    * [Interactive Video](https://education.sdsc.edu/training/interactive/hpc_user_training_2022/week3/) / [YouTube](https://youtu.be/T1502m6VwW4?t=3812)
 * **Source Code/Examples:** [If applicable]()
 
-### Topic 1 TASKS:
-
-#### Task 1
+### Topic 3.1 TASKS:
+  
 * Follow the Expanse 101 tutorial in the training documentation above, doing the hands-on content on Expanse.
   * https://hpc-training.sdsc.edu/expanse-101/Expanse_Aggregate.html
   * Note: the code for tutorial will be in the examples folder
 
-
-#### Task 3.2
-Task 3.2 description 
 
 [Back to Top](#top)
 ________
@@ -40,14 +36,11 @@ ________
    * [Interactive Video](https://education.sdsc.edu/training/interactive/hpc_user_training_2022/week3/) / [YouTube](https://youtu.be/T1502m6VwW4)
 * **Source Code/Examples:** [If applicable]()
 
-### Topic 2 TASKS:
+### Topic 3.2 TASKS:
 
-#### Task 1
-Task 1 description 
+* Description 
 
 
-#### task 2
-Task 2 description 
 
 [Back to Top](#top)
 
