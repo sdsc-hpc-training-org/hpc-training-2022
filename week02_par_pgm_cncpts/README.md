@@ -3,7 +3,7 @@
 **WEEK 2: Jan 21, 2022
 
 ## TOPIC: Parallel Computing Concepts; HPC overview & Expanse Architecture<a name="top">
-**Presented By:** [Bob Sinkovits, SDSC](https://www.sdsc.edu/research/researcher_spotlight/sinkovits_robert.html) ( sinkovit@sdsc.edu )
+**Presented By:** [Bob Sinkovits, SDSC](https://www.sdsc.edu/research/researcher_spotlight/sinkovits_robert.html) ( sinkovit at  sdsc.edu )
 
 ## READING AND PRESENTATIONS:
 * **Lecture material:** 
