@@ -7,10 +7,12 @@
 
 ## READING AND PRESENTATIONS:
 * **Lecture material:** 
-   * [https://github.com/sinkovit/Parallel-concepts](https://github.com/sinkovit/Parallel-concepts)
+  * Expanse Overview: [PDF](https://github.com/sdsc-hpc-training-org/hpc-training-2022/blob/main/week02_par_pgm_cncpts/Sinkovits_Expanse_overview.pdf)
+  * Basic Parallel Concepts (pdf)[https://github.com/sdsc-hpc-training-org/hpc-training-2022/blob/main/week02_par_pgm_cncpts/Sinkovits_Parallel_concepts.pdf]
 * **Video Recording:** 
-   * [Interactive Video](https://education.sdsc.edu/training/interactive/202201_parallel_computing_concepts/index.html) // [YouTube](https://youtu.be/WWMAx88pwlU?t=3)
+  * [Interactive Video](https://education.sdsc.edu/training/interactive/202201_parallel_computing_concepts/index.html) // [YouTube](https://youtu.be/WWMAx88pwlU?t=3)
 * **Source Code/Examples:** [If applicable]()
+  *   * GitHub examples: https://github.com/sinkovit/Parallel-concepts
 
 ## WEEK 1 TASKS:
 
