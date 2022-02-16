@@ -3,11 +3,11 @@
 **WEEK 3: January 28, 2022**
 
 ## Topics:<a name="top">
-* [Topic 1: Job Submission - Queues and batch scripting](#topic1)
-* [Topic 2: Data Management](#topic2)
+* [Topic 3.1: Job Submission - Queues and batch scripting](#topic1)
+* [Topic 3.2: Data Management](#topic2)
 
 ________
-## Topic 1:  Job Submission - Queues and batch scripting <a name="topic1"></a>
+## Topic 3.1:  Job Submission - Queues and batch scripting <a name="topic1"></a>
 **Presented By:** [Mary Thomas, SDSC](https://www.sdsc.edu/research/researcher_spotlight/thomas_mary.html) ( mpthomas .at. ucsd.edu )
 
 ### READING AND PRESENTATIONS:
@@ -20,15 +20,17 @@ ________
 ### Topic 1 TASKS:
 
 #### Task 1
-Task 1 description 
+* Follow the Expanse 101 tutorial in the training documentation above, doing the hands-on content on Expanse.
+  * https://hpc-training.sdsc.edu/expanse-101/Expanse_Aggregate.html
+  * Note: the code for tutorial will be in the examples folder
 
 
-#### Task 2
-Task 2 description 
+#### Task 3.2
+Task 3.2 description 
 
 [Back to Top](#top)
 ________
-## Topic 2: Data Management  <a name="topic2"></a>
+## Topic 3.2: Data Management  <a name="topic2"></a>
 **Presented By:** [Mahidhar Tatineni, SDSC](https://www.sdsc.edu/research/researcher_spotlight/tatineni_mahidhar.html) ( mahidhar  .at.  sdsc.edu )
 
 ### READING AND PRESENTATIONS:
