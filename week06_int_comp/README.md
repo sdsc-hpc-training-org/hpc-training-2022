@@ -3,7 +3,7 @@
 **WEEK 6: 02/18/22
 
 ## Topic: <a name="top"> 
-**Presented By:** [Mary Thomas, SDSC]](https://github.com/sdsc-hpc-training-org/hpc-training-2022#thomas) ( mpthomas @ sdsc.edu ))
+**Presented By:** [Mary Thomas, SDSC](https://github.com/sdsc-hpc-training-org/hpc-training-2022#thomas) ( mpthomas @ sdsc.edu ))
 
 ## READING AND PRESENTATIONS:
 * **Lecture material:** 
