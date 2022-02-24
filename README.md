@@ -15,7 +15,7 @@ Learn about tools and computing concepts necessary for HPC and CI systems
 | [Week 04](https://github.com/sdsc-hpc-training-org/hpc-training-2022/tree/main/week04_singularity) | Fri, 02/04/22 | Introduction to Singularity Containers <br/>[Interactive Video](https://education.sdsc.edu/training/interactive/hpc_user_training_2022/week4/) // [YouTube](https://youtu.be/GlBqtLP4EHA) | [Marty Kandes](#kandes) |
 | [Week 05](https://github.com/sdsc-hpc-training-org/hpc-training-2022/tree/main/week05_kubernetes) | Fri, 02/11/22 |  Introduction to Software Containers and Kubernetes <br/>[Interactive Video](https://education.sdsc.edu/training/interactive/hpc_user_training_2022/week5/) / [YouTube](https://youtu.be/eKPfZQNPQIk)| [Jeffrey Weekly](#weekley)
 | [Week 06](https://github.com/sdsc-hpc-training-org/hpc-training-2022/tree/main/week06_int_comp) | Fri, 02/18/22 | Running Secure Jupyter Notebooks on HPC Systems Interactive Computing <br/>[Interactive Video](https://education.sdsc.edu/training/interactive/hpc_user_training_2022/week6/) / [YouTube](https://youtu.be/4sHy1mtp-pU) | [Mary Thomas](#thomas)  |
-| Week 07 | Fri, 02/25/22 | Overview of Machine Learning Frameworks; Introduction to Deep Learning; Tensor Flow/PyTorch | [Paul Rodriguez](rodriguez); [Mahidhar Tatineni](#tatineni) |
+| Week 07 | Fri, 02/25/22 | "Introduction to Neural Networks, Convolution Neural Networks, and Deep Learning & Introduction to Using TensorFlow and PyTorch on Expanse" | [Paul Rodriguez](rodriguez); [Mahidhar Tatineni](#tatineni) |
 | Week 08 | Fri, 03/4/22 | Cloud Computing (Jetstream); Intro to Azure, Oracle, other clouds | [Marty Kandes](#kandes); [Mary Thomas](#thomas)|  
 
 
