@@ -3,7 +3,7 @@
 **WEEK 7: February 24, 2022
 
 ## Topic: <a name="top"> 
-**Presented By:** [Paul Rodriguez, SDSC] & [Mahidhar Tatineni, SDSC]
+**Presented By:** [Paul Rodriguez, SDSC](https://www.coursera.org/instructor/~13847302) & [Mahidhar Tatineni, SDSC](https://www.sdsc.edu/research/researcher_spotlight/tatineni_mahidhar.html)
 
 ## READING AND PRESENTATIONS:
 * **Lecture material:** 
