@@ -9,7 +9,7 @@
 * **Lecture material:** 
    * [to be uploaded]()
 * **Video Recording:** available in 3-5 days
-   * Coming soon [Interactive Video]()/ [YouTube]()
+   * Coming soon [Interactive Video]()/ [YouTube](https://youtu.be/8LFfk-3MF9E)
 * **Source Code/Examples:** [If applicable]()
 
 
