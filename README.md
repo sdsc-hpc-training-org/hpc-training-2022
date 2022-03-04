@@ -1,7 +1,9 @@
 # hpc-training-2022
 Repository for training material for the 2022 SDSC HPC/CI Training Series 
 
-## HPC User Training home
+
+
+## HPC/CI Training Series home
 https://www.sdsc.edu/event_items/202201_HPC-CI-Training-Series.html
 
 ## <a name="top">**AGENDA (tent):**
@@ -9,14 +11,14 @@ https://www.sdsc.edu/event_items/202201_HPC-CI-Training-Series.html
 Learn about tools and computing concepts necessary for HPC and CI systems
 | WEEK  | DATE | TOPIC | INSTRUCTOR |
 | :---------- |  :---------- | :---------- | :---------- |
-| Week 01 | Fri, 01/14/22 | Program Orientation, history, plan; Registration process & accounts | [Mary Thomas](#thomas)   |
-| Week 02 | Fri, 01/21/22 | Parallel Computing Concepts; HPC overview & Expanse Architecture  | [Bob Sinkovits](#sinkovits) |
-| Week 03 | Fri, 01/28/22 | Data Management; Job Submission - Queues and batch scripting  | [Mahi Tatineni](#tatineni); [Mary Thomas](#thomas)  |
-| Week 04 | Fri, 02/04/22 | Kubernetes; Submitting jobs onto Pacific Research Platform (PRP)  | [Marty Kandes](#kandes)  |
-| Week 05 | Fri, 02/11/22 | Singularity Containers | [Marty Kandes](#kandes) |
-| Week 06 | Fri, 02/18/22 | Running Secure Jupyter Notebooks on HPC Systems Interactive Computing  | [Mary Thomas](#thomas)  |
-| Week 07 | Fri, 02/25/22 | Overview of Machine Learning Frameworks; Introduction to Deep Learning; Tensor Flow/PyTorch | [Paul Rodriguez](rodriguez); [Mahi Tatineni](#tatineni) |
-| Week 08 | Fri, 03/4/22 | Cloud Computing (Jetstream); Intro to Azure, Oracle, other clouds | [Marty Kandes](#kandes); [Mary Thomas](#thomas)|  
+| [Week 01](https://github.com/sdsc-hpc-training-org/hpc-training-2022/tree/main/week01_introduction) | Fri, 01/14/22 | Program Orientation, history, plan; Registration process & accounts <br/> [Interactive Video](https://education.sdsc.edu/training/interactive/hpc_user_training_2022/week1/) // [YouTube](https://youtu.be/AmkfITLet2I)| [Mary Thomas](#thomas)   |
+| [Week 02](https://github.com/sdsc-hpc-training-org/hpc-training-2022/tree/main/week02_par_pgm_cncpts) | Fri, 01/21/22 | Parallel Computing Concepts; HPC overview & Expanse Architecture  <br/>[Interactive Video](https://education.sdsc.edu/training/interactive/202201_parallel_computing_concepts/index.html) // [YouTube](https://youtu.be/WWMAx88pwlU?t=3)| [Bob Sinkovits](#sinkovits) |
+| [Week 03](https://github.com/sdsc-hpc-training-org/hpc-training-2022/tree/main/week03_jobsub_datamgmt) | Fri, 01/28/22 | Data Management; Job Submission - Queues and batch scripting  <br/> [Interactive Video](https://education.sdsc.edu/training/interactive/hpc_user_training_2022/week3/) // [YouTube](https://youtu.be/T1502m6VwW4)| [Mahidhar Tatineni](#tatineni); [Mary Thomas](#thomas)  |
+| [Week 04](https://github.com/sdsc-hpc-training-org/hpc-training-2022/tree/main/week04_singularity) | Fri, 02/04/22 | Introduction to Singularity Containers <br/>[Interactive Video](https://education.sdsc.edu/training/interactive/hpc_user_training_2022/week4/) // [YouTube](https://youtu.be/GlBqtLP4EHA) | [Marty Kandes](#kandes) |
+| [Week 05](https://github.com/sdsc-hpc-training-org/hpc-training-2022/tree/main/week05_kubernetes) | Fri, 02/11/22 |  Introduction to Software Containers and Kubernetes <br/>[Interactive Video](https://education.sdsc.edu/training/interactive/hpc_user_training_2022/week5/) // [YouTube](https://youtu.be/eKPfZQNPQIk)| [Jeffrey Weekly](#weekley)
+| [Week 06](https://github.com/sdsc-hpc-training-org/hpc-training-2022/tree/main/week06_int_comp) | Fri, 02/18/22 | Running Secure Jupyter Notebooks on HPC Systems Interactive Computing <br/>[Interactive Video](https://education.sdsc.edu/training/interactive/hpc_user_training_2022/week6/) // [YouTube](https://youtu.be/4sHy1mtp-pU) | [Mary Thomas](#thomas)  |
+| [Week 07](https://github.com/sdsc-hpc-training-org/hpc-training-2022/tree/main/week07_ml_tensorflow_pytorch) | Fri, 02/25/22 | Introduction to Neural Networks, Convolution Neural Networks, and Deep Learning & Introduction to Using TensorFlow and PyTorch on Expanse <br/>[Interactive Video-coming soon]() // [YouTube](https://youtu.be/8LFfk-3MF9E) | [Paul Rodriguez](rodriguez); [Mahidhar Tatineni](#tatineni) |
+| Week 08 | Fri, 03/4/22 | Oracle Cloud Overview </br> Azure Overview </br> Cloud Computing on JetStream | Santosh Bhatt, Principal Enterprise Cloud Architect, Oracle </br> Paul Yu, Sr. Cloud Solutions Architect, Microsoft </br> [Marty Kandes](#kandes)|  
 
 
 [Back to Top](#top)
@@ -31,9 +33,9 @@ Learn about tools and computing concepts necessary for HPC and CI systems
 | Marty Kandes<a name="kandes"></a>  |  Computational and Data Science Research Specialist [(bio)](https://www.linkedin.com/in/marty-kandes-b53a34144/) |  SDSC |
 | Paul Rodriguez<a name="rodriguez"></a>  |  Research Programmer [(bio)](https://www.coursera.org/instructor/~13847302) |  SDSC |
 | Bob Sinkovits<a name="sinkovits"></a>  | Director for Scientific Computing Applications [(bio)](https://www.sdsc.edu/research/researcher_spotlight/sinkovits_robert.html) | SDSC|
-| Manu Shantharam <a name="shantharam"></a> | TITLE [(bio)](TBD) | SDSC |
 | Mahidhar Tatineni<a name="tatineni"></a> | Director of User Services [(bio)](https://www.sdsc.edu/research/researcher_spotlight/tatineni_mahidhar.html)   | SDSC |
 | Mary Thomas<a name="thomas"></a>  | Computational Data Scientist, Lead -  HPC Training  [(bio)]( https://www.sdsc.edu/research/researcher_spotlight/thomas_mary.html)| SDSC |
+| Jeffrey Weekly<a name="weekley"></a> | Research IT Engagement and Support Manager [bio](https://campusdirectory.ucsc.edu/cd_detail?uid=jweekley) | [University of California Santa Cruz](https://www.ucsc.edu/) |
 | Cindy Wong | Events Specialist | SDSC |
 | Nicole Wolter | Computational and Data Science Research Specialist [(bio)](https://www.linkedin.com/in/nicole-wolter-bbb94a3/)| SDSC |
 

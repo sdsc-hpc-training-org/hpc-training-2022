@@ -1,15 +1,17 @@
-# SDSC HPC User Training 2022
+# SDSC HPC/CI Training Series 2022
 
 **WEEK 1: Jan 14, 2022**
 
-## TOPIC:  Kickoff and Orientation
+## Topic:  Kickoff and Orientation<a name="top">
 **Presented By:** [Mary Thomas, SDSC](https://hpc-students.sdsc.edu/instr_bios/mary_thomas.html)  (mpthomas at ucsd.edu)
 
 ## READING AND PRESENTATIONS:
 * **Lecture material:** 
-   * [to be uploaded]()
+   * N/A
 * **Video Recording:** 
    * [Interactive Video](https://education.sdsc.edu/training/interactive/hpc_user_training_2022/week1/)
+   * [YouTube Video](https://youtu.be/AmkfITLet2I)
+
 * **Source Code/Examples:** [N/A]()
 
 ## WEEK 1 TASKS:
@@ -73,9 +75,13 @@ drwxr-xr-x 4 mthomas use300    7 Jan 22 02:43 ..
 * https://github.com/sdsc-hpc-training-org/hpc-security/blob/master/ssh_methods/connect-using-ssh-agent.md
 Note: we do not recommend using passwordless SSH.
 
+  
+[Back to Top](#top)
+______
 ### Note: Reporting your work:
-We will track your work using automated scripts
-You will need to name the directories and permissions as described in the ``reporting_your_work.md`` document.
+If you are interested in getting CCR credit, or a certificate, we will track your work using automated scripts.
+You will need to name the directories and permissions as described in the ``reporting_your_work.md`` document here:
+https://github.com/sdsc-hpc-training-org/hpc-training-2022/blob/main/reporting_your_work.md
 
 
 
