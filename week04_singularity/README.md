@@ -5,6 +5,10 @@
 ## TOPIC: 
 **Presented By:** [Marty Kandes, SDSC](bioURL)
 
+## Description 
+This training session provides an introduction to running Singularity containers on Comet for users currently using Comet and those who want to know more about running Singularity on XSEDE’s Comet supercomputer. SDSC’s computational scientist Marty Kandes provides an in-depth review of the important issues pertaining to running Singularity in the Comet high-performance ecosystem and includes several useful container examples for you to explore following the webinar.
+
+
 ## READING AND PRESENTATIONS:
 * **Lecture material:** 
    * [PDF](introduction-to-singularity.pdf)
@@ -14,12 +18,13 @@
 
 ## WEEK 1 TASKS:
 
-### 1. Task 1
-Task 1 description 
+### TASK 1:
+Run the MPI-enabled MEEP example batch job in /share/apps/examples/meep.
+
+### TASK 2:
+Run the GPU-accelerated TensorFlow example batch job in /share/apps/examples/tensorflow.
 
 
-### 2. task 2
-Task 2 description 
 
 ### Note: Reporting your work:
 If you are interested in getting CCR credit, or a certificate, we will track your work using automated scripts.
