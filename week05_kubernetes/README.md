@@ -16,11 +16,11 @@
 
 ## WEEK 1 TASKS:
 
-### 1. Task 1
+### Task 1
 Task 1 description 
 
 
-### 2. task 2
+### Task 2
 Task 2 description 
 
 ### Note: Reporting your work:
