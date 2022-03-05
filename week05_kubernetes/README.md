@@ -5,7 +5,7 @@
 ## TOPIC: 
 **Presented By:** [Jeffrey Weekley, UC Santa Cruz](bioURL)
 
-**Description**
+**Description:**
 
 ## READING AND PRESENTATIONS:
 * **Lecture material:** 
