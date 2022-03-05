@@ -12,6 +12,8 @@ ________
 ## Topic 3.1: Basic Concepts: Data Management  <a name="topic1"></a>
 **Presented By:** [Mahidhar Tatineni, SDSC](https://www.sdsc.edu/research/researcher_spotlight/tatineni_mahidhar.html) ( mahidhar  .at.  sdsc.edu )
 
+**Description:** This training session presents details about how to manage your data on the Expanse file system, incuding descriptions of how to use the Lustre, local scratch, and home file systems. In addition, we cover the bascis of using the Globus data mover file transfer system.
+  
 ### READING AND PRESENTATIONS:
 * **Lecture material:** 
    * Presentation Slides: https://github.com/sdsc-hpc-training-org/hpc-training-2022/blob/main/week03_jobsub_datamgmt/DataManagement_HPCTraining_2022.pdf
@@ -29,6 +31,8 @@ ________
 ## Topic 3.2:  HPC Basic Concepts:  Accessing Expanse <a name="topic2"></a>
 **Presented By:** [Mary Thomas, SDSC](https://www.sdsc.edu/research/researcher_spotlight/thomas_mary.html) ( mpthomas .at. ucsd.edu )
 
+*Description:* 
+  
 ### READING AND PRESENTATIONS:
 * **Lecture material:** 
    * Presentation Slides: https://github.com/sdsc-hpc-training-org/hpc-training-2022/blob/main/week03_jobsub_datamgmt/MThomas-BasicConcepts-AccessingExpanse-01-27-2022.pdf
@@ -48,6 +52,8 @@ ________
 ________
 ## Topic 3.3:  HPC Basic Concepts:  Job Submission<a name="topic3"></a>
 **Presented By:** [Mary Thomas, SDSC](https://www.sdsc.edu/research/researcher_spotlight/thomas_mary.html) ( mpthomas .at. ucsd.edu )
+
+*Description:* 
 
 ### READING AND PRESENTATIONS:
 * **Lecture material:** 
