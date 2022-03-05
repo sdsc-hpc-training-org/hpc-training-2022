@@ -1,18 +1,54 @@
 # SDSC HPC User Training 2022
 
-**WEEK 7: February 24, 2022
+**WEEK 7: February 24, 2022**
 
 ## Topic: <a name="top"> 
-**Presented By:** [Paul Rodriguez, SDSC](https://www.coursera.org/instructor/~13847302) & [Mahidhar Tatineni, SDSC](https://www.sdsc.edu/research/researcher_spotlight/tatineni_mahidhar.html)
+* [Topic 7.1: Introduction to Neural Networks, Convolution Neural Networks, and Deep Learning](#topic1)
+* [Topic 7.2: Introduction to Using TensorFlow and PyTorch on Expanse](#topic2)
+  
+  
 
-## READING AND PRESENTATIONS:
+________
+## Topic 7.1:  Introduction to Neural Networks, Convolution Neural Networks, and Deep Learning <a name="topic1"></a>
+**Presented By:** [Paul Rodriguez, SDSC](https://www.coursera.org/instructor/~13847302)
+  
+**Description:** 
+  
+### READING AND PRESENTATIONS:
 * **Lecture material:** 
-   * [to be uploaded]()
-* **Video Recording:** available in 3-5 days
-   * Coming soon [Interactive Video]()/ [YouTube](https://youtu.be/8LFfk-3MF9E)
+   * Presentation Slides: 
+* **Video Recording:**
+   * [Interactive Video]()
+   * [YouTube]()
 * **Source Code/Examples:** [If applicable]()
 
+### Topic 3.1 TASKS:
 
+Description
+
+[Back to Top](#top)
+ ________
+  
+## Topic 7.2: Introduction to Using TensorFlow and PyTorch on Expanse <a name="topic2"></a>
+**Presented By:** [Mahidhar Tatineni, SDSC](https://www.sdsc.edu/research/researcher_spotlight/tatineni_mahidhar.html)
+  
+**Description:** 
+  
+
+### READING AND PRESENTATIONS:
+* **Lecture material:** 
+   * Presentation Slides: 
+* **Video Recording:**
+   * [Interactive Video]()
+   * [YouTube]()
+* **Source Code/Examples:** [If applicable]()
+
+### Topic 7.2 TASKS:
+
+
+
+[Back to Top](#top)
+  
 __________________
 
 ### Note: Reporting your work:
