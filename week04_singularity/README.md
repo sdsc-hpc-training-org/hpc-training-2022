@@ -1,6 +1,6 @@
 # SDSC HPC/CI Training Series 2022
 
-**WEEK 4: February 4, 2022
+**WEEK 4: February 4, 2022**
 
 ## TOPIC: Introduction to Singularity Containers
 **Presented By:** [Marty Kandes, SDSC](bioURL)
