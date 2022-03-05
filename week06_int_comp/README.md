@@ -5,9 +5,10 @@
 ## Topic: Running Secure, Interactive HPC Services and Notebooks on Expanse<a name="top"> 
 **Presented By:** [Mary Thomas, SDSC](https://github.com/sdsc-hpc-training-org/hpc-training-2022#thomas) ( mpthomas @ sdsc.edu )
 
-**Description:**
+**Description:** This training session focusses on how to run secure interactive services on HPC systems. Topics include: Defining Interactive High-Performance Computing; Notebook Security; SDSC Satellite Reverse Proxy Service (SRPS); the SRPS Client: galyleo; Oveview of Expanse Notebook examples from GitHub repo
+
   
-## READING AND PRESENTATIONS:
+  ## READING AND PRESENTATIONS:
 * **Lecture material:** 
    * xpanse-Interactive-Computing-HPC-UTr22-02-18-2022.pdf
 * **Video Recording:** 
