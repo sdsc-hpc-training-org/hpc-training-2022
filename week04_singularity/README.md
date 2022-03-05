@@ -2,7 +2,7 @@
 
 **WEEK 4: February 4, 2022
 
-## TOPIC: 
+## TOPIC: Introduction to Singularity Containers
 **Presented By:** [Marty Kandes, SDSC](bioURL)
 
 ## Description 
