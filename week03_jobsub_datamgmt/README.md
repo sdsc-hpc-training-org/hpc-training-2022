@@ -23,7 +23,7 @@ ________
 
 ### Topic 3.1 TASKS:
 
-* Description 
+Description
 
 [Back to Top](#top)
 
@@ -31,7 +31,7 @@ ________
 ## Topic 3.2:  HPC Basic Concepts:  Accessing Expanse <a name="topic2"></a>
 **Presented By:** [Mary Thomas, SDSC](https://www.sdsc.edu/research/researcher_spotlight/thomas_mary.html) ( mpthomas .at. ucsd.edu )
 
-*Description:* 
+**Description:** 
   
 ### READING AND PRESENTATIONS:
 * **Lecture material:** 
@@ -53,8 +53,9 @@ ________
 ## Topic 3.3:  HPC Basic Concepts:  Job Submission<a name="topic3"></a>
 **Presented By:** [Mary Thomas, SDSC](https://www.sdsc.edu/research/researcher_spotlight/thomas_mary.html) ( mpthomas .at. ucsd.edu )
 
-*Description:* 
-
+**Description:** 
+  
+  
 ### READING AND PRESENTATIONS:
 * **Lecture material:** 
    * Presentation Slides: https://github.com/sdsc-hpc-training-org/hpc-training-2022/blob/main/week03_jobsub_datamgmt/MThomas-BasicConcepts-JobSubmission-01-27-2022.pdf
