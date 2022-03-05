@@ -2,7 +2,7 @@
 
 **WEEK 6: February 18, 2022**
 
-## Topic: <a name="top"> 
+## Topic: Running Secure, Interactive HPC Services and Notebooks on Expanse<a name="top"> 
 **Presented By:** [Mary Thomas, SDSC](https://github.com/sdsc-hpc-training-org/hpc-training-2022#thomas) ( mpthomas @ sdsc.edu )
 
 **Description:**
@@ -18,11 +18,11 @@
 ## TASKS:
 
 ### Task 1
-Task 1 description 
+* Create the HW directory
+* Clone the Expanse Notebook Repository (https://github.com/sdsc-hpc-training-org/Expanse-Notebooks)  into your HW directory
+* Launch a Juypter Notbook using the *galyleo* client
+* Select a notebook and run the notebook.
 
-
-### Task 2
-Task 2 description 
 
 [Back to Top](#top)
 
