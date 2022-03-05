@@ -1,10 +1,12 @@
 # SDSC HPC User Training 2022
 
-**WEEK X: DATE
+**WEEK X: DATE**
 
 ## Topic: <a name="top"> 
 **Presented By:** [Instructor, Institution](bioURL) ( email )
 
+**Description:**
+  
 ## READING AND PRESENTATIONS:
 * **Lecture material:** 
    * [to be uploaded]()
@@ -14,13 +16,14 @@
 
 ## TASKS:
 
-### 1. Task 1
+### Task 1
 Task 1 description 
 
 
-### 2. Task 2
+### Task 2
 Task 2 description 
 
+  
 [Back to Top](#top)
 
 __________________
