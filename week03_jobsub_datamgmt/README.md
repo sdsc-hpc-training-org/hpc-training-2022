@@ -31,8 +31,8 @@ Description
 ## Topic 3.2:  HPC Basic Concepts:  Accessing Expanse <a name="topic2"></a>
 **Presented By:** [Mary Thomas, SDSC](https://www.sdsc.edu/research/researcher_spotlight/thomas_mary.html) ( mpthomas .at. ucsd.edu )
 
-**Description:** 
-  
+**Description:** This training session covers the basic concepts needed to work on HPC/CI systems, including: Expanse overview, accessing Expanse; an overview of the basic skills needed to use HPC/CI Systems; logging on to Expanse; using modules; and account management. Presentation includes detailed examples.
+
 ### READING AND PRESENTATIONS:
 * **Lecture material:** 
    * Presentation Slides: https://github.com/sdsc-hpc-training-org/hpc-training-2022/blob/main/week03_jobsub_datamgmt/MThomas-BasicConcepts-AccessingExpanse-01-27-2022.pdf
@@ -53,8 +53,7 @@ ________
 ## Topic 3.3:  HPC Basic Concepts:  Job Submission<a name="topic3"></a>
 **Presented By:** [Mary Thomas, SDSC](https://www.sdsc.edu/research/researcher_spotlight/thomas_mary.html) ( mpthomas .at. ucsd.edu )
 
-**Description:** 
-  
+**Description:** This session covers the basic concepts needed to understand how parallel computing jobs are run on Expanse, including: Compiling and Linking Code; Running Jobs; Hands-on Examples for CPU Jobs and for GPU/CUDA Jobs.
   
 ### READING AND PRESENTATIONS:
 * **Lecture material:** 
