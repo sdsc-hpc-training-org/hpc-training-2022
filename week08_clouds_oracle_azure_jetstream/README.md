@@ -7,7 +7,6 @@
 * [Topic 8.2: Azure Cloud Overview](#topic2)
 * [Topic 8.3: Cloud Computing on JetStream](#topic3)
 
-(Organized in the order in which they were presented)
 ________
 ## Topic 8.1: Oracle Cloud Overview  <a name="topic1"></a>
 **Presented By:** [Santosh Bhatt, Oracle](https://github.com/sdsc-hpc-training-org/hpc-training-2022#bhatt) 
