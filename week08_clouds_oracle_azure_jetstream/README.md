@@ -1,6 +1,6 @@
 # SDSC HPC User Training 2022
 
-**WEEK X: DATE
+**WEEK 8: March 4, 2022
 
 ## Topic: <a name="top"> 
 **Presented By:** [Instructor, Institution](bioURL) ( email )
