@@ -5,20 +5,23 @@
 ## Topic: <a name="top"> 
 **Presented By:** [Mary Thomas, SDSC](https://github.com/sdsc-hpc-training-org/hpc-training-2022#thomas) ( mpthomas @ sdsc.edu )
 
+**Description:**
+  
 ## READING AND PRESENTATIONS:
 * **Lecture material:** 
-   * [to be uploaded]()
+   * xpanse-Interactive-Computing-HPC-UTr22-02-18-2022.pdf
 * **Video Recording:** 
-   * [Interactive Video](https://education.sdsc.edu/training/interactive/hpc_user_training_2022/week6/) / [YouTube](https://youtu.be/4sHy1mtp-pU)
-* **Source Code/Examples:** [If applicable]()
+   * [Interactive Video](https://education.sdsc.edu/training/interactive/hpc_user_training_2022/week6/) 
+   * [YouTube](https://youtu.be/4sHy1mtp-pU)
+* **Source Code/Examples:** [Expanse Notebooks](https://github.com/sdsc-hpc-training-org/Expanse-Notebooks)
 
 ## TASKS:
 
-### 1. Task 1
+### Task 1
 Task 1 description 
 
 
-### 2. Task 2
+### Task 2
 Task 2 description 
 
 [Back to Top](#top)
