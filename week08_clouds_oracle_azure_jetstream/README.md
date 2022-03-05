@@ -1,6 +1,6 @@
 # SDSC HPC User Training 2022
 
-**WEEK 8: March 4, 2022
+**WEEK 8: March 4, 2022**
 
 ## Topics:<a name="top">
 * [Topic 8.1: Oracle Cloud Overview](#topic1)
