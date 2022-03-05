@@ -5,6 +5,8 @@
 ## TOPIC: Parallel Computing Concepts; HPC overview & Expanse Architecture<a name="top">
 **Presented By:** [Bob Sinkovits, SDSC](https://www.sdsc.edu/research/researcher_spotlight/sinkovits_robert.html) ( sinkovit at  sdsc.edu )
 
+**Description:** The Parallel Computing Concepts talk presents a high-level overview of the technologies and software needed by HPC/CI users who need to access HPC systems, and understand the architecuture and ideas behind HPC/Parallel computing. The session includes  code and figures for presenting scaling data - the right way and the wrong way - and illustrating the limits on scalability imposed by Amdahl's Law. This is a work in progress and new content will be added as necessary. 
+ 
 ## READING AND PRESENTATIONS:
 * **Lecture material:** 
   * Part 1: Expanse Overview: [PDF](https://github.com/sdsc-hpc-training-org/hpc-training-2022/blob/main/week02_par_pgm_cncpts/Sinkovits_Expanse_overview.pdf)
