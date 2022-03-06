@@ -25,7 +25,7 @@ ________
 
 Description
 
-[Back to Top](#top)
+[Back to Top](#top) 
 
   ________
 ## Topic 3.2:  HPC Basic Concepts:  Accessing Expanse <a name="topic2"></a>
