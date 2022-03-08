@@ -18,7 +18,7 @@ ________
 * **Lecture material:** 
    * Presentation Slides: 
 * **Video Recording:**
-   * [Interactive Video]()
+   * [Interactive Video](https://education.sdsc.edu/training/interactive/hpc_user_training_2022/week7/)
    * [YouTube]()
 * **Source Code/Examples:** [If applicable]()
 
@@ -39,7 +39,7 @@ Description
 * **Lecture material:** 
    * Presentation Slides: 
 * **Video Recording:**
-   * [Interactive Video]()
+   * [Interactive Video](https://education.sdsc.edu/training/interactive/hpc_user_training_2022/week7/)
    * [YouTube]()
 * **Source Code/Examples:** [If applicable]()
 
