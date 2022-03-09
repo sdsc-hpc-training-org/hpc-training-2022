@@ -29,7 +29,7 @@ Description
 __________________
 
 ## Topic 8.2:  Azure Cloud Overview <a name="topic2"></a>
-**Presented By:** [Paul Yu, Amazon](https://github.com/sdsc-hpc-training-org/hpc-training-2022#paulyu) 
+**Presented By:** [Paul Yu, Microsoft](https://github.com/sdsc-hpc-training-org/hpc-training-2022#paulyu) 
 
 **Description:** This training session presents details about ...
   
