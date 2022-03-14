@@ -17,7 +17,7 @@ ________
 * **Lecture material:** 
    * Presentation Slides: TBD
 * **Video Recording:** 
-   * [Interactive Video - coming soon]() 
+   * [Interactive Video](https://education.sdsc.edu/training/interactive/hpc_user_training_2022/week8/) 
    * [YouTube - coming soon]()
 * **Source Code/Examples:** [If applicable]()
 
@@ -37,7 +37,7 @@ __________________
 * **Lecture material:** 
    * Presentation Slides: TBD
 * **Video Recording:** 
-   * [Interactive Video - coming soon]() 
+   * [Interactive Video](https://education.sdsc.edu/training/interactive/hpc_user_training_2022/week8/) 
    * [YouTube - coming soon]()
 * **Source Code/Examples:** [If applicable]()
 
@@ -58,7 +58,7 @@ __________________
 * **Lecture material:** 
    * Presentation Slides: TBD
 * **Video Recording:** 
-   * [Interactive Video - coming soon]() 
+   * [Interactive Video](https://education.sdsc.edu/training/interactive/hpc_user_training_2022/week8/) 
    * [YouTube - coming soon]()
 * **Source Code/Examples:** [If applicable]()
 
