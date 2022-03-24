@@ -1,9 +1,9 @@
 # SDSC HPC User Training 2022
 
-**WEEK X: DATE**
+**WEEK12: DATE: 04/22/2022**
 
-## Topic: <a name="top"> 
-**Presented By:** [Instructor, Institution](bioURL) ( email )
+## Topic: CPU Profiling, monitoring: gprof, mpiP/comms, uProf<a name="top"> 
+**Presented By:** [Bob Sinkovits](https://www.sdsc.edu/research/researcher_spotlight/sinkovits_robert.html) ( sinkovit at sdsc.edu )
 
 **Description:**
   
