@@ -9,8 +9,8 @@ https://www.sdsc.edu/event_items/202201_HPC-CI-Training-Series.html
 * [Session 2](#session2)
 * [Instructors](#instructors)
 
-## <a name="session1">**AGENDA:**
-*Session 1 (01/14/22 – 03/04/22)*
+## <a name="session1">**Session 1 (01/14/22 – 03/04/22):**
+*Agenda:*
 Learn about tools and computing concepts necessary for HPC and CI systems
 | WEEK  | DATE | TOPIC | MATERIAL | INSTRUCTOR |
 | :---------- |  :---------- | :---------- | :---------- | :---------- |
@@ -25,17 +25,19 @@ Learn about tools and computing concepts necessary for HPC and CI systems
 
 [ [Back to Session 1](#session1) ] [ [Back to Top](#top) ]
 
-## <a name="session2">**AGENDA:**
-*Session 2 (03/28/22 - 05/06/22)*
+## <a name="session2">**Session 2: (03/28/22 - 05/06/22)**
+*Agenda:*
 Learn about tools and computing concepts necessary for HPC and CI systems
 | WEEK  | DATE | TOPIC | MATERIAL | INSTRUCTOR |
 | :---------- |  :---------- | :---------- | :---------- | :---------- |
-| [Week 09](week09_viz_using_jupyter_notebooks) | dd | tt | [Interactive Video]( )  <br /> [YouTube]( )  | ii |
-| [Week 10](week10_cpu_comp_openmp_threads) | dd | tt | [Interactive Video]( )  <br /> [YouTube]( )  | ii |
-| [Week 11](week11_cpu_comp_mpi) | dd | tt | [Interactive Video]( )  <br /> [YouTube]( )  | ii |
-| [Week 12](week12_cpu_profiling) | dd | tt | [Interactive Video]( )  <br /> [YouTube]( )  | ii |
-| [Week 13](week13_gpu_comp_and_prof) | dd | tt | [Interactive Video]( )  <br /> [YouTube]( )  | ii |
-| [Week 14](week14_gpu_comp_python) | dd | tt | [Interactive Video]( )  <br /> [YouTube]( )  | ii |
+| [Week 09](week09_viz_using_jupyter_notebooks) | Fri, 04/1/22 | Visualization using Jupyter Notebooks  | [Interactive Video]( )  <br /> [YouTube]( )  | [Bob Sinkovits](#sinkovits) |
+| [Week 10](week10_cpu_comp_openmp_threads) | Fri, 04/8/22 | CPU Computing: Introduction to OpenMP/Threads (first) | [Interactive Video]( )  <br /> [YouTube]( )  | [Marty Kandes](#kandes) |
+| [Week 11](week11_cpu_comp_mpi) | Fri, 04/15/22	| CPU Computing: Introduction to MPI | [Interactive Video]( )  <br /> [YouTube]( )  |  [Mahidhar Tatineni](#tatineni) |
+| [Week 12](week12_cpu_profiling) | Fri, 04/22/22	| CPU Profiling, monitoring: gprof, mpiP/comms, uProf | [Interactive Video]( )  <br /> [YouTube]( )  | [Bob Sinkovits](#sinkovits) |
+| [Week 13.1](week13_gpu_comp_and_prof) | Fri,  | tt | [Interactive Video]( )  <br /> [YouTube]( )  | [Andreas Goetz](#goetz)   <br />   [Mahidhar Tatineni](#tatineni) |
+| [Week 13.2](week13_gpu_comp_and_prof) | Fri,  | tt | [Interactive Video]( )  <br /> [YouTube]( )  | ii |
+| [Week 14](week14_gpu_comp_python) | Fri, 04/29/22  | GPU Computing with Python (Numba, CuPy, and RAPIDS) | [Interactive Video]( )  <br /> [YouTube]( )  | [Kristopher Keipert (NVIDIA)](#keipert)  <br />   'Zoe Ryan (NVIDIA)](#zryan) |
+
 
 [ [Back to Session 2](#session2) ] [ [Back to Top](#top) ]
 
