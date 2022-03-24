@@ -30,7 +30,9 @@ Learn about tools and computing concepts necessary for HPC and CI systems
 Learn about tools and computing concepts necessary for HPC and CI systems
 | WEEK  | DATE | TOPIC | MATERIAL | INSTRUCTOR |
 | :---------- |  :---------- | :---------- | :---------- | :---------- |
-| a | b | c | d | e |
+| Week 09 | dd | tt | [Interactive Video]( )  <br /> [YouTube]( )  | ii |
+| Week 10 | dd | tt | [Interactive Video]( )  <br /> [YouTube]( )  | ii |
+| Week 11 | dd | tt | [Interactive Video]( )  <br /> [YouTube]( )  | ii |
 
 [ [Back to Session 2](#session2) ] [ [Back to Top](#top) ]
 
