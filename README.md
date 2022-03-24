@@ -43,8 +43,8 @@ Learn about tools and computing concepts necessary for HPC and CI systems
 | Andy Goetz<a name="goetz"></a>  |  Director -  Computational Chemistry Laboratory [(website)](https://www.sdsc.edu/research/researcher_spotlight/goetz_andreas.html) |  [SDSC](https://sdsc.edu) |
 | Kristopher Keipert <a name="keipert"></a>  | Senior Solutions Architect   [(website)](https://www.linkedin.com/in/keipert/) |  [NVIDA](https://nvidia.com) |
 | Marty Kandes<a name="kandes"></a>  |  Computational and Data Science Research Specialist [(website)](https://www.linkedin.com/in/marty-kandes-b53a34144/) |  [SDSC](https://sdsc.edu) |
-| Zoe Ryan<a name="zryan"></a>  |  Solutions Architect  [(website)](https://www.linkedin.com/in/zoe-ryan/) |  [NVIDA](https://nvidia.com) |
 | Paul Rodriguez<a name="rodriguez"></a>  |  Research Programmer [(website)](https://www.coursera.org/instructor/~13847302) |  [SDSC](https://sdsc.edu) |
+| Zoe Ryan<a name="zryan"></a>  |  Solutions Architect  [(website)](https://www.linkedin.com/in/zoe-ryan/) |  [NVIDA](https://nvidia.com) |
 | Bob Sinkovits<a name="sinkovits"></a>  | Director for Scientific Computing Applications [(website)](https://www.sdsc.edu/research/researcher_spotlight/sinkovits_robert.html) | [SDSC](https://sdsc.edu)|
 | Mahidhar Tatineni<a name="tatineni"></a> | Director of User Services [(website)](https://www.sdsc.edu/research/researcher_spotlight/tatineni_mahidhar.html)   |  [SDSC](https://sdsc.edu) |
 | Mary Thomas<a name="thomas"></a>  | Computational Data Scientist, Lead -  HPC Training  [(website)]( https://www.sdsc.edu/research/researcher_spotlight/thomas_mary.html)| [SDSC](https://sdsc.edu) |
