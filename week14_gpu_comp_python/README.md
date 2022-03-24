@@ -1,16 +1,13 @@
 # SDSC HPC/CI Training Series 2022
 
-**WEEK X: date**
+**WEEK 4: 05/06/22**
 
-## Topics:<a name="top">
-* [Topic X.1: Title 1](#topic1)
-* [Topic X.2: Title 2](#topic2)
+## Topic: GPU Computing with Python <a name="top">
+GPU Computing with Python](#topic1)
 
-
-________
-## Topic X.1: Title 1 <a name="topic1"></a>
-
-**Presented By:** [Instructor, Institution](bioURL) ( email )
+**Presented By:** 
+[Kristopher Keipert, NVIDIA](https://www.linkedin.com/in/keipert/) ( kkeipert  at  nvidia.com )
+[Zoe Ryan, NVIDIA](https://www.linkedin.com/in/zoe-ryan/) ( zryan  at  nvidia.com )
 
 **Description:**
   
@@ -56,16 +53,11 @@ Task 1 description
 ### Task 2
 Task 2 description 
 
-  
-
-
-
-[Back to Top](#top)
-  
+ <hr>  
 ### Note: Reporting your work:
 If you are interested in getting CCR credit, or a certificate, we will track your work using automated scripts.
 You will need to name the directories and permissions as described in the ``reporting_your_work.md`` document.
 
-
-
 For questions or comments, contact Mary Thomas @ mpthomas  at  ucsd.edu
+
+  [Back to Top](#top)
