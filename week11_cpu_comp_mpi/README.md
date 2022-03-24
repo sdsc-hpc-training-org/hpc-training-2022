@@ -1,9 +1,9 @@
 # SDSC HPC User Training 2022
 
-**WEEK X: DATE**
+**WEEK 11: DATE: 04/15/2022**
 
-## Topic: <a name="top"> 
-**Presented By:** [Instructor, Institution](bioURL) ( email )
+## Topic: CPU Computing: Introduction to MPI<a name="top"> 
+**Presented By:** [Mahidhar Tatineni, SDSC]((bio)) ( mahidhar at sdsc.edu )
 
 **Description:**
   
