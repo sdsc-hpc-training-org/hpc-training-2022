@@ -23,16 +23,16 @@ Learn about tools and computing concepts necessary for HPC and CI systems
 | [Week 07](https://github.com/sdsc-hpc-training-org/hpc-training-2022/tree/main/week07_ml_tensorflow_pytorch)   | Fri, 02/25/22   | Introduction to Neural Networks, Convolution Neural Networks, and Deep Learning, <br /> Introduction to Using TensorFlow and PyTorch on Expanse   | [Interactive Video](https://education.sdsc.edu/training/interactive/hpc_user_training_2022/week7/)  <br /> [YouTube](https://youtu.be/8LFfk-3MF9E)   | [Paul Rodriguez](rodriguez), <br /> [Mahidhar Tatineni](#tatineni) |
 | [Week 08](week08_clouds_oracle_azure_jetstream)   | Fri, 03/4/22   | Oracle Cloud Overview </br> Azure Overview </br> Cloud Computing on JetStream   | [Interactive Video](https://education.sdsc.edu/training/interactive/hpc_user_training_2022/week8/)  <br /> [YouTube](https://youtu.be/eaJI5pzG-QQ)  | [Santosh Bhatt](#bhatt),  <br /> [Paul Yu](#paulyu),  <br /> [Marty Kandes](#kandes)|  
 
-[Back to Session 1](#session1) [Back to Top](#top)
+[ [Back to Session 1](#session1) ] [ [Back to Top](#top) ]
 
-## <a name="session1">**AGENDA:**
-*Session 1 (01/14/22 – 03/04/22)*
+## <a name="session2">**AGENDA:**
+*Session 2 (03/28/22 - 05/06/22)*
 Learn about tools and computing concepts necessary for HPC and CI systems
 | WEEK  | DATE | TOPIC | MATERIAL | INSTRUCTOR |
 | :---------- |  :---------- | :---------- | :---------- | :---------- |
 | a | b | c | d | e |
 
-[Back to Session 2](#session2) [Back to Top](#top)
+[ [Back to Session 2](#session2) ] [ [Back to Top](#top) ]
 
 <hr>
 ## Instructors<a name="instructors"></a>
@@ -51,4 +51,4 @@ Learn about tools and computing concepts necessary for HPC and CI systems
 | Nicole Wolter | Computational and Data Science Research Specialist [(bio)](https://www.linkedin.com/in/nicole-wolter-bbb94a3/)| [SDSC](https://sdsc.edu) |
 | Paul Yu<a name="paulyu"></a> | Sr. Cloud Solutions Architect  [bio](https://www.linkedin.com/in/yupaul/) | [Microsoft](https://azure.microsoft.com/en-us/) |
 
-[Back to Top](#top)
+[ [Back to Top](#top) ]
