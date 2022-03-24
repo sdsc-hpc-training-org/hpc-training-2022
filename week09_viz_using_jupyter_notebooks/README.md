@@ -1,13 +1,14 @@
 # SDSC HPC User Training 2022
 
-**WEEK X: DATE**
+**WEEK 9: DATE: 04/01/2022**
 
-## Topic: <a name="top"> 
-**Presented By:** [Instructor, Institution](bioURL) ( email )
+## Topic: Visualization using Jupyter Notebooks<a name="top"> 
+**Presented By:** [Bob Sinkovits](https://www.sdsc.edu/research/researcher_spotlight/sinkovits_robert.html) ( sinkovit at sdsc.edu )
 
 **Description:**
-  
-## READING AND PRESENTATIONS:
+Visualization using Jupyter Notebooks using python packages (pandas), visualizing Lustre data sets, Matplotlib, Boqeh, SeaBorn)
+
+  ## READING AND PRESENTATIONS:
 * **Lecture material:** 
    * [to be uploaded]()
 * **Video Recording:** 
