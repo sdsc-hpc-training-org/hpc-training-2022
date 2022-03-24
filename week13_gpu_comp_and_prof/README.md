@@ -36,7 +36,7 @@ Task 2 description
   ________
 ## Topic 13.2:  Profiling with CUDA, OpenACC, and NSight  <a name="topic2"></a>
 
-**Presented By:** [Mahidhar Tatineni, SDSC)[https://www.sdsc.edu/research/researcher_spotlight/tatineni_mahidhar.html) ( mahidhar  at  sdsc.edu )
+**Presented By:** [Mahidhar Tatineni, SDSC](https://www.sdsc.edu/research/researcher_spotlight/tatineni_mahidhar.html) ( mahidhar  at  sdsc.edu )
 
 **Description:**
   
