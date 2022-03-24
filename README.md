@@ -13,7 +13,7 @@ https://www.sdsc.edu/event_items/202201_HPC-CI-Training-Series.html
 *Agenda:*
 Learn about tools and computing concepts necessary for HPC and CI systems
 | WEEK  | DATE | TOPIC | MATERIAL | INSTRUCTOR |
-| :---------- |  :---------- | :---------- | :---------- | :---------- |
+| :------------- |  :--------------- | :---------- | :---------- | :---------- |
 | [Week 01](https://github.com/sdsc-hpc-training-org/hpc-training-2022/tree/main/week01_introduction)  | Fri, 01/14/22  | Program Orientation, history, plan, <br />Registration process & accounts  | [Interactive Video](https://education.sdsc.edu/training/interactive/hpc_user_training_2022/week1/) <br /> [YouTube](https://youtu.be/AmkfITLet2I) | [Mary Thomas](#thomas)   |
 | [Week 02](https://github.com/sdsc-hpc-training-org/hpc-training-2022/tree/main/week02_par_pgm_cncpts)  | Fri, 01/21/22  | Parallel Computing Concepts; HPC overview & Expanse Architecture    | [Interactive Video](https://education.sdsc.edu/training/interactive/202201_parallel_computing_concepts/index.html) <br /> [YouTube](https://youtu.be/WWMAx88pwlU?t=3)  | [Bob Sinkovits](#sinkovits) |
 | [Week 03](https://github.com/sdsc-hpc-training-org/hpc-training-2022/tree/main/week03_jobsub_datamgmt) | Fri, 01/28/22 | Data Management; Job Submission - Queues and batch scripting  | [Interactive Video](https://education.sdsc.edu/training/interactive/hpc_user_training_2022/week3/) <br /> [YouTube](https://youtu.be/T1502m6VwW4)| [Mahidhar Tatineni](#tatineni),  <br /> [Mary Thomas](#thomas)  |  
