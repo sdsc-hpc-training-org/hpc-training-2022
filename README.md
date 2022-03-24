@@ -35,8 +35,8 @@ Learn about tools and computing concepts necessary for HPC and CI systems
 | [Week 11](week11_cpu_comp_mpi) | Fri, 04/15/22	| CPU Computing: Introduction to MPI | [Interactive Video]( )  <br /> [YouTube]( )  |  [Mahidhar Tatineni](#tatineni) |
 | [Week 12](week12_cpu_profiling) | Fri, 04/22/22	| CPU Profiling, monitoring: gprof, mpiP/comms, uProf | [Interactive Video]( )  <br /> [YouTube]( )  | [Bob Sinkovits](#sinkovits) |
 | [Week 13.1](week13_gpu_comp_and_prof) | Fri,  | tt | [Interactive Video]( )  <br /> [YouTube]( )  | [Andreas Goetz](#goetz)   <br />   [Mahidhar Tatineni](#tatineni) |
-| [Week 13.2](week13_gpu_comp_and_prof) | Fri,  | tt | [Interactive Video]( )  <br /> [YouTube]( )  | ii |
-| [Week 14](week14_gpu_comp_python) | Fri, 04/29/22  | GPU Computing with Python (Numba, CuPy, and RAPIDS) | [Interactive Video]( )  <br /> [YouTube]( )  | [Kristopher Keipert (NVIDIA)](#keipert)  <br />   'Zoe Ryan (NVIDIA)](#zryan) |
+| [Week 13.2](week13_gpu_comp_and_prof) | Fri, 04/29/22 | Introduction to GPU computing <br /> Programming and profiling with CUDA, OpenACC, and NSight | [Interactive Video]( )  <br /> [YouTube]( )  | [Andy Goetz](#goetz)  <br /> [Mahidhar Tatineni](#tatineni) |
+| [Week 14](week14_gpu_comp_python) | Fri,   | GPU Computing with Python (Numba, CuPy, and RAPIDS) | [Interactive Video]( )  <br /> [YouTube]( )  | [Kristopher Keipert (NVIDIA)](#keipert)  <br />   [Zoe Ryan (NVIDIA)](#zryan) |
 
 
 [ [Back to Session 2](#session2) ] [ [Back to Top](#top) ]
