@@ -2,8 +2,8 @@
 
 **WEEK X: DATE**
 
-## Topic: <a name="top"> 
-**Presented By:** [Instructor, Institution](bioURL) ( email )
+## Topic: CPU Computing: Introduction to OpenMP/Threads (first)<a name="top"> 
+**Presented By:** [Marty Kandes, SDSC](https://www.linkedin.com/in/marty-kandes-b53a34144/) ( mkandes  at  sdsc.edu )
 
 **Description:**
   
