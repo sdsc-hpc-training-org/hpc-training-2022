@@ -39,16 +39,18 @@ Learn about tools and computing concepts necessary for HPC and CI systems
 
 | **NAME** | **TITLE** | **ORG** |
 | ---------------------------------- | ----------- | ----------- |
-| Santosh Bhatt<a name="bhatt"></a>  |  Principal Enterprise Cloud Architect, Oracle [(bio)](https://www.linkedin.com/in/santosh-bhatt-54b84113a/) |  Oracle |
-| Andy Goetz<a name="goetz"></a>  |  Director -  Computational Chemistry Laboratory [(bio)](https://www.sdsc.edu/research/researcher_spotlight/goetz_andreas.html) |  [SDSC](https://sdsc.edu) |
-| Marty Kandes<a name="kandes"></a>  |  Computational and Data Science Research Specialist [(bio)](https://www.linkedin.com/in/marty-kandes-b53a34144/) |  [SDSC](https://sdsc.edu) |
-| Paul Rodriguez<a name="rodriguez"></a>  |  Research Programmer [(bio)](https://www.coursera.org/instructor/~13847302) |  [SDSC](https://sdsc.edu) |
-| Bob Sinkovits<a name="sinkovits"></a>  | Director for Scientific Computing Applications [(bio)](https://www.sdsc.edu/research/researcher_spotlight/sinkovits_robert.html) | [SDSC](https://sdsc.edu)|
-| Mahidhar Tatineni<a name="tatineni"></a> | Director of User Services [(bio)](https://www.sdsc.edu/research/researcher_spotlight/tatineni_mahidhar.html)   |  [SDSC](https://sdsc.edu) |
-| Mary Thomas<a name="thomas"></a>  | Computational Data Scientist, Lead -  HPC Training  [(bio)]( https://www.sdsc.edu/research/researcher_spotlight/thomas_mary.html)| [SDSC](https://sdsc.edu) |
+| Santosh Bhatt<a name="bhatt"></a>  |  Principal Enterprise Cloud Architect, Oracle [(website)](https://www.linkedin.com/in/santosh-bhatt-54b84113a/) |  Oracle |
+| Andy Goetz<a name="goetz"></a>  |  Director -  Computational Chemistry Laboratory [(website)](https://www.sdsc.edu/research/researcher_spotlight/goetz_andreas.html) |  [SDSC](https://sdsc.edu) |
+| Kristopher Keipert <a name="keipert"></a>  | Senior Solutions Architect   [(website)](https://www.linkedin.com/in/keipert/) |  [NVIDA](https://nvidia.com) |
+| Marty Kandes<a name="kandes"></a>  |  Computational and Data Science Research Specialist [(website)](https://www.linkedin.com/in/marty-kandes-b53a34144/) |  [SDSC](https://sdsc.edu) |
+| Zoe Ryan<a name="zryan"></a>  |  Solutions Architect  [(website)](https://www.linkedin.com/in/zoe-ryan/) |  [NVIDA](https://nvidia.com) |
+| Paul Rodriguez<a name="rodriguez"></a>  |  Research Programmer [(website)](https://www.coursera.org/instructor/~13847302) |  [SDSC](https://sdsc.edu) |
+| Bob Sinkovits<a name="sinkovits"></a>  | Director for Scientific Computing Applications [(website)](https://www.sdsc.edu/research/researcher_spotlight/sinkovits_robert.html) | [SDSC](https://sdsc.edu)|
+| Mahidhar Tatineni<a name="tatineni"></a> | Director of User Services [(website)](https://www.sdsc.edu/research/researcher_spotlight/tatineni_mahidhar.html)   |  [SDSC](https://sdsc.edu) |
+| Mary Thomas<a name="thomas"></a>  | Computational Data Scientist, Lead -  HPC Training  [(website)]( https://www.sdsc.edu/research/researcher_spotlight/thomas_mary.html)| [SDSC](https://sdsc.edu) |
 | Jeffrey Weekly<a name="weekley"></a> | Research IT Engagement and Support Manager [bio](https://campusdirectory.ucsc.edu/cd_detail?uid=jweekley) | [University of California Santa Cruz](https://www.ucsc.edu/) |
 | Cindy Wong | Events Specialist | [SDSC](https://sdsc.edu) |
-| Nicole Wolter | Computational and Data Science Research Specialist [(bio)](https://www.linkedin.com/in/nicole-wolter-bbb94a3/)| [SDSC](https://sdsc.edu) |
+| Nicole Wolter | Computational and Data Science Research Specialist [(website)](https://www.linkedin.com/in/nicole-wolter-bbb94a3/)| [SDSC](https://sdsc.edu) |
 | Paul Yu<a name="paulyu"></a> | Sr. Cloud Solutions Architect  [bio](https://www.linkedin.com/in/yupaul/) | [Microsoft](https://azure.microsoft.com/en-us/) |
 
 [ [Back to Top](#top) ]
