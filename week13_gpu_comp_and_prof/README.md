@@ -1,6 +1,6 @@
 # SDSC HPC/CI Training Series 2022
 
-**WEEK x: DATE: **
+**WEEK X: date**
 
 ## Topics:<a name="top">
 * [Topic X.1: Title 1](#topic1)
