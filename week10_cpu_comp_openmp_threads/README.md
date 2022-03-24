@@ -1,6 +1,6 @@
 # SDSC HPC User Training 2022
 
-**WEEK 10: DATE: 04/08/2022**
+**WEEK 10: 04/08/2022**
 
 ## Topic: CPU Computing: Introduction to OpenMP/Threads (first)<a name="top"> 
 **Presented By:** [Marty Kandes, SDSC](https://www.linkedin.com/in/marty-kandes-b53a34144/) ( mkandes  at  sdsc.edu )
