@@ -1,16 +1,16 @@
 # SDSC HPC/CI Training Series 2022
 
-**WEEK X: date**
+**WEEK 13: 04/29/2022**
 
 ## Topics:<a name="top">
-* [Topic X.1: Title 1](#topic1)
-* [Topic X.2: Title 2](#topic2)
+* [Topic 13.1: Introduction to GPU computing, and Programming](#topic1)
+* [Topic 13.2: Profiling with CUDA, OpenACC, and NSight](#topic2)
 
 
 ________
-## Topic X.1: Title 1 <a name="topic1"></a>
+## Topic 13.1: Introduction to GPU computing, and Programming<a name="topic1"></a>
 
-**Presented By:** [Instructor, Institution](bioURL) ( email )
+**Presented By:** [Andy Goetz, SDSC](https://www.sdsc.edu/research/researcher_spotlight/goetz_andreas.html) ( agoetz  at  sdsc.edu )
 
 **Description:**
   
@@ -34,9 +34,9 @@ Task 2 description
 [Back to Top](#top) 
 
   ________
-## Topic X.2: Title 2  <a name="topic2"></a>
+## Topic 13.2:  Profiling with CUDA, OpenACC, and NSight  <a name="topic2"></a>
 
-**Presented By:** [Instructor, Institution](bioURL) ( email )
+**Presented By:** [https://www.sdsc.edu/research/researcher_spotlight/tatineni_mahidhar.html) ( mahidhar  at  sdsc.edu )
 
 **Description:**
   
