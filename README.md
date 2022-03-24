@@ -30,9 +30,12 @@ Learn about tools and computing concepts necessary for HPC and CI systems
 Learn about tools and computing concepts necessary for HPC and CI systems
 | WEEK  | DATE | TOPIC | MATERIAL | INSTRUCTOR |
 | :---------- |  :---------- | :---------- | :---------- | :---------- |
-| Week 09 | dd | tt | [Interactive Video]( )  <br /> [YouTube]( )  | ii |
-| Week 10 | dd | tt | [Interactive Video]( )  <br /> [YouTube]( )  | ii |
-| Week 11 | dd | tt | [Interactive Video]( )  <br /> [YouTube]( )  | ii |
+| [Week 09](week09_viz_using_jupyter_notebooks) | dd | tt | [Interactive Video]( )  <br /> [YouTube]( )  | ii |
+| [Week 10](week10_cpu_comp_openmp_threads) | dd | tt | [Interactive Video]( )  <br /> [YouTube]( )  | ii |
+| [Week 11](week11_cpu_comp_mpi) | dd | tt | [Interactive Video]( )  <br /> [YouTube]( )  | ii |
+| [Week 12](week12_cpu_profiling) | dd | tt | [Interactive Video]( )  <br /> [YouTube]( )  | ii |
+| [Week 13](week13_gpu_comp_and_prof) | dd | tt | [Interactive Video]( )  <br /> [YouTube]( )  | ii |
+| [Week 14](week14_gpu_comp_python) | dd | tt | [Interactive Video]( )  <br /> [YouTube]( )  | ii |
 
 [ [Back to Session 2](#session2) ] [ [Back to Top](#top) ]
 
