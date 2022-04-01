@@ -6,7 +6,14 @@
 **Presented By:** [Bob Sinkovits](https://www.sdsc.edu/research/researcher_spotlight/sinkovits_robert.html) ( sinkovit at sdsc.edu )
 
 **Description:**
-Visualization using Jupyter Notebooks using python packages (pandas), visualizing Lustre data sets, Matplotlib, Boqeh, SeaBorn)
+This session of the HPC/CI training series will cover “Visualization using Jupyter Notebooks”. This will be a mostly hands on activity where we will demonstrate the creation of plots in Python using matplotlib and R using ggplot2. We encourage you to download the following GitHub repos so that you can follow along. 
+
+[https://github.com/sinkovit/Rseries](https://github.com/sinkovit/Rseries)<br>
+[https://github.com/sinkovit/PythonSeries](https://github.com/sinkovit/PythonSeries)
+
+Knowledge of R and Python is not required to run the notebooks and it should be straightforward to make minor changes to customize the output. The examples are not computationally intensive and can be executed anywhere that you can launch Jupyter notebooks such as a laptop with Anaconda installed or free services such as [https://galyleo.engagelively.com/](https://galyleo.engagelively.com/) (choose SciPy Environment when prompted for server options).
+
+
 
   ## READING AND PRESENTATIONS:
 * **Lecture material:** 
