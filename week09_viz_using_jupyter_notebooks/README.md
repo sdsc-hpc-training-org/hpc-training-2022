@@ -1,6 +1,6 @@
 # SDSC HPC User Training 2022
 
-**WEEK 9: 04/01/2022**
+**WEEK 9: April 1, 2022**
 
 ## Topic: Visualization using Jupyter Notebooks<a name="top"> 
 **Presented By:** [Bob Sinkovits](https://www.sdsc.edu/research/researcher_spotlight/sinkovits_robert.html) ( sinkovit at sdsc.edu )
