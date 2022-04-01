@@ -11,7 +11,7 @@ This session of the HPC/CI training series will cover “Visualization using Jup
 [https://github.com/sinkovit/Rseries](https://github.com/sinkovit/Rseries)<br>
 [https://github.com/sinkovit/PythonSeries](https://github.com/sinkovit/PythonSeries)
 
-Knowledge of R and Python is not required to run the notebooks and it should be straightforward to make minor changes to customize the output. The examples are not computationally intensive and can be executed anywhere that you can launch Jupyter notebooks such as a laptop with Anaconda installed or free services such as [https://galyleo.engagelively.com/](https://galyleo.engagelively.com/) (choose SciPy Environment when prompted for server options).
+Knowledge of R and Python is not required to run the notebooks and it should be straightforward to make minor changes to customize the output. The examples are not computationally intensive and can be executed anywhere that you can launch Jupyter notebooks such as a laptop with Anaconda installed or free services such as [https://galyleo.engagelively.com/](https://galyleo.engagelively.com/) (choose Datascience Environment when prompted for server options).
 
 
 
