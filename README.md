@@ -30,7 +30,7 @@ Learn about tools and computing concepts necessary for HPC and CI systems
 Learn about tools and computing concepts necessary for HPC and CI systems
 | WEEK  | DATE | TOPIC | MATERIAL | INSTRUCTOR |
 | :---------- |  :---------- | :---------- | :---------- | :---------- |
-| [Week 09](week09_viz_using_jupyter_notebooks) | Fri, 04/1/22 | Visualization using Jupyter Notebooks  | [YouTube](https://youtu.be/6MNLETH-UME)  | [Bob Sinkovits](#sinkovits) |
+| [Week 09](week09_viz_using_jupyter_notebooks) | Fri, 04/1/22 | Visualization using Jupyter Notebooks  | [Interactive Video](https://education.sdsc.edu/training/interactive/hpc_user_training_2022/week9/) <br> [YouTube](https://youtu.be/6MNLETH-UME)  | [Bob Sinkovits](#sinkovits) |
 | [Week 10](week10_cpu_comp_openmp_threads) | Fri, 04/8/22 | CPU Computing: Introduction to OpenMP/Threads | | [Marty Kandes](#kandes) |
 | [Week 11](week11_cpu_comp_mpi) | Fri, 04/15/22	| CPU Computing: Introduction to MPI | |  [Mahidhar Tatineni](#tatineni) |
 | [Week 12](week12_cpu_profiling) | Fri, 04/22/22	| CPU Profiling, monitoring: gprof, mpiP/comms, uProf | | [Bob Sinkovits](#sinkovits) |
