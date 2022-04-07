@@ -19,7 +19,7 @@ Knowledge of R and Python is not required to run the notebooks and it should be 
 * **Lecture material:** 
    * [to be uploaded]()
 * **Video Recording:** 
-   * [Interactive Video  - available in 3-5 days ]() // [YouTube](https://youtu.be/6MNLETH-UME)
+   * [Interactive Video](https://education.sdsc.edu/training/interactive/hpc_user_training_2022/week9/) // [YouTube](https://youtu.be/6MNLETH-UME)
 * **Source Code/Examples:** [If applicable]()
 
 ## TASKS:
