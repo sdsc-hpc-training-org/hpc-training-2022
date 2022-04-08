@@ -24,7 +24,7 @@ This task is completed. Registration is closed.
 ### 2. Setup XSEDE Portal Account: [https://portal.xsede.org](http://portal.xsede.org)
 Steps to create your username:
    1.  Go to the XSEDE website
-   2.  Add information about yourself including institution and email address
+   2.  Add information about yourself including institution and email address. **Please register using your institutional email (.edu or .org) and not your personal email (Gmail, outlook, etc...).**
    3.  Receive an account verification email
    4.  Go back to account verification on the Sign In page and enter the email, verification code (you can find the code in the email received)
    5.  Choose your own username and password
