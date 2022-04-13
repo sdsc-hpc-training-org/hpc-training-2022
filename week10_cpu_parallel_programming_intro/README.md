@@ -11,7 +11,7 @@
 * **Lecture material:** 
    * [to be uploaded]()
 * **Video Recording:** 
-   * [Interactive Video  - available in 3-5 days ]()
+   * [Interactive Video  - available in 3-5 days ]() // [YouTube](https://youtu.be/od-RdIlwRhA)
 * **Source Code/Examples:** [If applicable]()
 
 ## TASKS:
