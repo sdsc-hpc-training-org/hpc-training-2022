@@ -5,7 +5,7 @@
 ## Topic: CPU Computing: Introduction to MPI<a name="top"> 
 **Presented By:** [Mahidhar Tatineni, SDSC]((bio)) ( mahidhar at sdsc.edu )
 
-**Description:**
+**Description:** This session is targeted at attendees who are looking for a hands-on introduction to parallel computing using MPI programming. The session will start with an introduction and basic information for getting started with MPI. An overview of the common MPI routines that are useful for beginner MPI programmers, including MPI environment set up, point-to-point communications, and collective communications routines will be provided. Simple examples illustrating distributed memory computing, with the use of common MPI routines, will be covered. Finally, a MPI profiling example will be detailed. Hands on exercises for both MPI will be done in C and FORTRAN. 
   
 ## READING AND PRESENTATIONS:
 * **Lecture material:** 
