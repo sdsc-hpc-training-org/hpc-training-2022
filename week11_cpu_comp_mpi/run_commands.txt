@@ -1,0 +1,75 @@
+[1] Copy all the examples to your home directory
+ 
+cp -r /cm/shared/examples/sdsc/classes/hpctraining2022/PARALLEL  $HOME
+
+[2] Simple PI example
+
+cd $HOME/PARALLEL/SIMPLE
+module reset; module load gcc mvapich2
+mpicc -o pi_mpi.exe pi_mpi.c
+sbatch pi_mpi.sb
+
+[3] Point to Point communication examples
+
+module reset; module load gcc mvapich2
+cd $HOME/PARALLEL/PTOP 
+
+(a) Blocking send/recv example
+
+mpicc -o blocking.exe blocking.c
+sbatch blocking.sb 
+
+(b) Deadlock demonstration
+
+mpicc -o deadlock.exe deadlock.c
+sbatch deadlock.sb
+
+(c) First fix for deadlock
+
+mpicc -o deadlock-fix1.exe deadlock-fix1.c
+sbatch deadlock-fix1.sb
+
+(d) Nonblocking example
+
+mpicc -o nonblocking.exe nonblocking.c
+sbatch nonblocking.sb
+
+(e) Fix deadlock with nonblocking calls
+
+mpicc -o deadlock-fix2-nb.exe deadlock-fix2-nb.c
+sbatch deadlock-fix2-nb.sb
+
+[4] Collective Examples
+
+module reset; module load gcc mvapich2
+cd $HOME/PARALLEL/COLLECTIVES
+
+(a) Broadcast
+
+mpif90 -o bcast.exe bcast.f90
+sbatch bcast.sb
+
+(b) Factorial Example
+
+mpif90 -o factorial.exe factorial.f90
+sbatch  factorial.sb
+
+(c) Allreduce Example
+
+mpif90 -o allreduce.exe allreduce.f90
+sbatch allreduce.sb
+
+[5] 1-D Heat Equation Example
+
+cd $HOME/PARALLEL/DOMAIN
+module reset
+module load gcc mvapich2 
+mpif90 -ffixed-form -o heat_mpi.exe  heat_mpi.f90
+sbatch heat_mpi.sb
+
+[6] Profiling Example
+
+cd $HOME/PARALLEL/MISC
+module reset; module load gcc openmpi mpip
+mpif90 -ffixed-form -g -o heat_mpi_profile.exe heat_mpi.f90 -L$MPIPHOME/lib -lmpiP -L/cm/shared/apps/spack/cpu/opt/spack/linux-centos8-zen2/gcc-10.2.0/libunwind-1.4.0-2jrfg2ur46us6d3yaz44xs5c3k3bi4lx/lib -lunwind
+sbatch heat_mpi_profile.sb
