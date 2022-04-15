@@ -10,7 +10,7 @@
 ## READING AND PRESENTATIONS:
 * **Lecture material:** 
    * [PDF of presentation](HPCTraining_MPI_2022.pdf)
-   * [Command list for hands on exercises]()
+   * [Command list for hands on exercises](run_commands.txt)
 * **Video Recording:** 
    * [Interactive Video  - available in 3-5 days ]()
 * **Source Code/Examples:** [If applicable]()
