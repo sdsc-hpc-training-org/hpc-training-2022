@@ -11,7 +11,7 @@
 * **Lecture material:** 
    * [to be uploaded]()
 * **Video Recording:** 
-   * [Interactive Video  - available in 3-5 days ]() // [YouTube](https://youtu.be/od-RdIlwRhA)
+   * [Interactive Video](https://education.sdsc.edu/training/interactive/hpc_user_training_2022/week10/) // [YouTube](https://youtu.be/od-RdIlwRhA)
 * **Source Code/Examples:** [If applicable]()
 
 ## TASKS:
