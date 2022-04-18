@@ -2,10 +2,10 @@
 
 **WEEK12: 04/22/2022**
 
-## Topic: CPU Profiling, monitoring: gprof, mpiP/comms, uProf<a name="top"> 
+## Topic: CPU profiling with gprof and uProf<a name="top"> 
 **Presented By:** [Bob Sinkovits](https://www.sdsc.edu/research/researcher_spotlight/sinkovits_robert.html) ( sinkovit at sdsc.edu )
 
-**Description:**
+**Description:** The session will demonstrate how to profile CPU applications using the UNIX performance analysis tool gprof, which is supported by all major C, C++ and Fortran compilers, and AMD’s proprietary uProf tool. We will describe how profiling can be used to identify the regions of your software that account for the majority of the wall clock time. While both gprof and uProf can be used for simple time based profiling, uProf provides access to low-level systems counters and yields additional insights into factors that affect performance. The session will also touch briefly on the computer memory hierarchy and how to write your code to make best use of cache.
   
 ## READING AND PRESENTATIONS:
 * **Lecture material:** 
