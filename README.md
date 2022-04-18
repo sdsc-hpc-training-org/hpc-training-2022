@@ -33,7 +33,7 @@ Learn about tools and computing concepts necessary for HPC and CI systems
 | [Week 09](week09_viz_using_jupyter_notebooks) | Fri, 04/1/22 | Visualization using Jupyter Notebooks  | [Interactive Video](https://education.sdsc.edu/training/interactive/hpc_user_training_2022/week9/) <br> [YouTube](https://youtu.be/6MNLETH-UME)  | [Bob Sinkovits](#sinkovits) |
 | [Week 10](week10_cpu_comp_openmp_threads) | Fri, 04/8/22 | CPU Computing: Introduction to OpenMP/Threads |[YouTube](https://youtu.be/od-RdIlwRhA)| [Marty Kandes](#kandes) |
 | [Week 11](week11_cpu_comp_mpi) | Fri, 04/15/22	| CPU Computing: Introduction to MPI | |  [Mahidhar Tatineni](#tatineni) |
-| [Week 12](week12_cpu_profiling) | Fri, 04/22/22	| CPU Profiling, monitoring: gprof, mpiP/comms, uProf | | [Bob Sinkovits](#sinkovits) |
+| [Week 12](week12_cpu_profiling) | Fri, 04/22/22	| CPU profiling with gprof and uProf | | [Bob Sinkovits](#sinkovits) |
 | [Week 13](week13_gpu_comp_and_prof) | Fri, 04/29/22  | Introduction to GPU computing <br /> Programming and profiling with CUDA, OpenACC, and NSight  | | [Andreas Goetz](#goetz) <br /> [Mahidhar Tatineni](#tatineni) |
 | [Week 14](week14_gpu_comp_python) | Fri, 05/06/22   | GPU Computing with Python (Numba, CuPy, and RAPIDS) | | [Kristopher Keipert (NVIDIA)](#keipert)  <br />   [Zoe Ryan (NVIDIA)](#zryan) |
 
