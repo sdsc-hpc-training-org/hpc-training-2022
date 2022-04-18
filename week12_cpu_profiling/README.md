@@ -12,7 +12,8 @@
    * [to be uploaded]()
 * **Video Recording:** 
    * [Interactive Video  - available in 3-5 days ]()
-* **Source Code/Examples:** [If applicable]()
+* **Source Code/Examples:** https://github.com/sinkovit/profiling-tutorial 
+
 
 ## TASKS:
 
