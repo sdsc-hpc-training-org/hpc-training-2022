@@ -12,7 +12,7 @@
    * [PDF of presentation](HPCTraining_MPI_2022.pdf)
    * [Command list for hands on exercises](run_commands.txt)
 * **Video Recording:** 
-   * [Interactive Video  - available in 3-5 days ]() // [YouTube](https://youtu.be/SI3_tTCJIf8)
+   * [Interactive Video](https://education.sdsc.edu/training/interactive/hpc_user_training_2022/week11/) // [YouTube](https://youtu.be/SI3_tTCJIf8)
 * **Source Code/Examples:** [If applicable]()
 
 ## TASKS:
