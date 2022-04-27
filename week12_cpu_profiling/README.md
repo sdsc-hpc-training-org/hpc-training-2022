@@ -9,9 +9,9 @@
   
 ## READING AND PRESENTATIONS:
 * **Lecture material:** 
-   * [to be uploaded]()
+   * [PDF](Profiling Expanse.pdf)
 * **Video Recording:** 
-   * [Interactive Video  - available in 3-5 days ]() // [YouTube](https://youtu.be/ZKLJLxYcm6Y)
+   * [Interactive Video](https://education.sdsc.edu/training/interactive/hpc_user_training_2022/week12/) // [YouTube](https://youtu.be/ZKLJLxYcm6Y)
 * **Source Code/Examples:** https://github.com/sinkovit/profiling-tutorial 
 
 
