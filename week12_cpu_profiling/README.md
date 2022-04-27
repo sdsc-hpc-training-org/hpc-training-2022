@@ -9,7 +9,7 @@
   
 ## READING AND PRESENTATIONS:
 * **Lecture material:** 
-   * [PDF](Profiling Expanse.pdf)
+   * [PDF](Profiling%20Expanse.pdf)
 * **Video Recording:** 
    * [Interactive Video](https://education.sdsc.edu/training/interactive/hpc_user_training_2022/week12/) // [YouTube](https://youtu.be/ZKLJLxYcm6Y)
 * **Source Code/Examples:** https://github.com/sinkovit/profiling-tutorial 
