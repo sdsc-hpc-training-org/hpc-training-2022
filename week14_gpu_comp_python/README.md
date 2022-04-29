@@ -6,8 +6,8 @@
 GPU Computing with Python](#topic1)
 
 **Presented By:** 
-[Kristopher Keipert, NVIDIA](https://www.linkedin.com/in/keipert/) ( kkeipert  at  nvidia.com )
-[Zoe Ryan, NVIDIA](https://www.linkedin.com/in/zoe-ryan/) ( zryan  at  nvidia.com )
+[Kristopher Keipert, NVIDIA](https://www.linkedin.com/in/keipert/)
+[Zoe Ryan, NVIDIA](https://www.linkedin.com/in/zoe-ryan/)
 
 **Description:**
   
