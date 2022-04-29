@@ -1,0 +1,48 @@
+### NVPROF
+
+Get GPU node:
+srun --pty --nodes=1 --ntasks-per-node=1 --cpus-per-task=10 --account=XYZ123 --gpus=1 --partition=gpu-shared -t 04:00:00 --wait 0 /bin/bash
+module reset
+module load cuda10.2/toolkit
+module load cuda10.2/profiler
+
+### nvprof Examples
+cp -r /cm/shared/apps/cuda10.2/sdk/10.2.89  $HOME/examples
+cd $HOME/examples/0_Simple/matrixMul
+make
+cd $HOME/examples/7_CUDALibraries/cuSolverSp_LinearSolver
+make
+
+[1] Queries
+nvprof --query-metrics
+nvprof --query-events 
+
+[2] No options
+cd $HOME/examples/0_Simple/matrixMul
+nvprof ./matrixMul
+
+[3] Dependency analysis
+cd $HOME/examples/7_CUDALibraries/cuSolverSp_LinearSolver
+nvprof --dependency-analysis ./cuSolverSp_LinearSolver
+
+[4] Timelines
+nvprof --print-gpu-trace ./cuSolverSp_LinearSolver
+nvprof --print-api-trace ./cuSolverSp_LinearSolver
+
+[5] System profiling
+nvprof --print-gpu-trace --system-profiling on ./cuSolverSp_LinearSolver
+
+[6] OpenACC
+cp -r /cm/shared/examples/sdsc/openacc/ $HOME/
+cd $HOME/openacc
+nvprof ./laplace2d.openacc.exe 
+nvprof --print-openacc-summary ./laplace2d.openacc.exe 
+nvprof --print-openacc-trace ./laplace2d.openacc.exe 
+
+## NSIGHT
+module reset
+module load cuda10.2/toolkit
+export PATH=/cm/shared/examples/sdsc/nsight/v2020.5/bin:$PATH
+cd $HOME/examples/7_CUDALibraries/cuSolverSp_LinearSolver
+nsys profile -t cuda,osrt -o baseline -w true ./cuSolverSp_LinearSolver
+
