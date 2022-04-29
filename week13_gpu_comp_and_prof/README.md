@@ -12,7 +12,7 @@ ________
 
 **Presented By:** [Andy Goetz, SDSC](https://www.sdsc.edu/research/researcher_spotlight/goetz_andreas.html) ( agoetz  at  sdsc.edu )
 
-**Description:**
+**Description:** This session gives a brief introduction to GPU computing and programming. We will cover the GPU architecture and basics of programming with the Nvidia HPC SDK / CUDA Toolkit via libraries, OpenACC compiler directives, and CUDA. We further cover how to profile GPU applications using nvprof and NVIDIA Nsight tools.
   
 ## READING AND PRESENTATIONS:
 * **Lecture material:** 
@@ -37,8 +37,6 @@ Task 2 description
 ## Topic 13.2:  Profiling with CUDA, OpenACC, and NSight  <a name="topic2"></a>
 
 **Presented By:** [Mahidhar Tatineni, SDSC](https://www.sdsc.edu/research/researcher_spotlight/tatineni_mahidhar.html) ( mahidhar  at  sdsc.edu )
-
-**Description:**
   
 ## READING AND PRESENTATIONS:
 * **Lecture material:** 
