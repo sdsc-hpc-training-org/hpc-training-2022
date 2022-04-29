@@ -16,7 +16,7 @@ ________
   
 ## READING AND PRESENTATIONS:
 * **Lecture material:** 
-   * [to be uploaded]()
+   * [PDF of presentation](HPC-training_GPU_intro.pdf)
 * **Video Recording:** 
    * [Interactive Video  - available in 3-5 days ]()
 * **Source Code/Examples:** [If applicable]()
