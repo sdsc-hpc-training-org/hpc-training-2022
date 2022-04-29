@@ -3,7 +3,7 @@
 **WEEK 13: 04/29/2022**
 
 ## Topics:<a name="top">
-* [Topic 13.1: Introduction to GPU computing, and Programming](#topic1)
+* [Topic 13.1: Introduction to GPU Computing and Programming](#topic1)
 * [Topic 13.2: Profiling with CUDA, OpenACC, and NSight](#topic2)
 
 
