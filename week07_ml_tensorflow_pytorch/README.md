@@ -22,7 +22,7 @@ ________
    * [YouTube]()
 * **Source Code/Examples:** [If applicable]()
 
-### Topic 3.1 TASKS:
+### Topic 7.1 TASKS:
 
 Description
 
@@ -37,7 +37,7 @@ Description
 
 ### READING AND PRESENTATIONS:
 * **Lecture material:** 
-   * Presentation Slides: 
+   * Presentation Slides: https://github.com/sdsc-hpc-training-org/hpc-training-2022/blob/main/week07_ml_tensorflow_pytorch/Intro_TensorFlow_PyTorch_Usage.pdf
 * **Video Recording:**
    * [Interactive Video](https://education.sdsc.edu/training/interactive/hpc_user_training_2022/week7/)
    * [YouTube]()
