@@ -18,7 +18,7 @@ ________
 * **Lecture material:** 
    * [PDF of presentation](HPC-training_GPU_intro.pdf)
 * **Video Recording:** 
-   * [Interactive Video  - available in 3-5 days ]()
+   * [Interactive Video  - available in 3-5 days ]() / [YouTube](https://youtu.be/AJFa6GB8DP0)
 * **Source Code/Examples:** [If applicable]()
 
 ## TASKS:
@@ -37,13 +37,6 @@ Task 2 description
 ## Topic 13.2:  Profiling with CUDA, OpenACC, and NSight  <a name="topic2"></a>
 
 **Presented By:** [Mahidhar Tatineni, SDSC](https://www.sdsc.edu/research/researcher_spotlight/tatineni_mahidhar.html) ( mahidhar  at  sdsc.edu )
-  
-## READING AND PRESENTATIONS:
-* **Lecture material:** 
-   * [to be uploaded]()
-* **Video Recording:** 
-   * [Interactive Video  - available in 3-5 days ]()
-* **Source Code/Examples:** [If applicable]()
 
 ## TASKS:
 
