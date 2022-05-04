@@ -2,7 +2,7 @@
 
 **WEEK 4: 05/06/22**
 
-## Topic: GPU Computing with Python <a name="top">
+## Topic: GPU Computing with Python (Numba, CuPy, and RAPIDS) <a name="top">
 GPU Computing with Python](#topic1)
 
 **Presented By:** 
