@@ -6,8 +6,7 @@
 GPU Computing with Python](#topic1)
 
 **Presented By:** 
-[Kristopher Keipert, NVIDIA](https://www.linkedin.com/in/keipert/)
-[Zoe Ryan, NVIDIA](https://www.linkedin.com/in/zoe-ryan/)
+[Kristopher Keipert, NVIDIA](https://www.linkedin.com/in/keipert/) & [Zoe Ryan, NVIDIA](https://www.linkedin.com/in/zoe-ryan/)
 
 **Description:**
 In this workshop, you'll get hands-on experience accelerating Python codes with NVIDIA GPUs. We will utilize code samples in three main categories to introduce you to Python GPU accelerated computing. First, we will next explore drop-in replacements for SciPy and NumPy code through the CuPy library. Next, we will cover NVIDIA RAPIDS, which has end-to-end accelerated data science workloads. We will conclude by working with Numba which gives you the flexibility to write custom accelerated code without leaving the Python language. By the end of the workshop, you'll have the skills to start accelerating your own Python codes with NVIDIA GPUs!
