@@ -18,7 +18,7 @@ ________
 * **Lecture material:** 
    * [PDF of presentation](HPC-training_GPU_intro.pdf)
 * **Video Recording:** 
-   * [Interactive Video  - available in 3-5 days ]() / [YouTube](https://youtu.be/AJFa6GB8DP0)
+   * [Interactive Video](https://education.sdsc.edu/training/interactive/hpc_user_training_2022/week13/) / [YouTube](https://youtu.be/AJFa6GB8DP0)
 * **Source Code/Examples:** [If applicable]()
 
 ## TASKS:
