@@ -3,7 +3,7 @@
 **WEEK 4: 05/06/22**
 
 ## Topic: GPU Computing with Python (Numba, CuPy, and RAPIDS) <a name="top">
-GPU Computing with Python](#topic1)
+GPU Computing with Python
 
 **Presented By:** 
 [Kristopher Keipert, NVIDIA](https://www.linkedin.com/in/keipert/) & [Zoe Ryan, NVIDIA](https://www.linkedin.com/in/zoe-ryan/)
@@ -15,7 +15,7 @@ In this workshop, you'll get hands-on experience accelerating Python codes with 
 * **Lecture material:** 
    * [to be uploaded]()
 * **Video Recording:** 
-   * [Interactive Video  - available in 3-5 days ]()
+   * [Interactive Video  - available in 3-5 days ]() // [YouTube](https://youtu.be/KeuBnRZhgmI)
 * **Source Code/Examples:** [If applicable]()
 
 ## TASKS:
@@ -29,29 +29,6 @@ Task 2 description
 
 
 [Back to Top](#top) 
-
-  ________
-## Topic X.2: Title 2  <a name="topic2"></a>
-
-**Presented By:** [Instructor, Institution](bioURL) ( email )
-
-**Description:**
-  
-## READING AND PRESENTATIONS:
-* **Lecture material:** 
-   * [to be uploaded]()
-* **Video Recording:** 
-   * [Interactive Video  - available in 3-5 days ]()
-* **Source Code/Examples:** [If applicable]()
-
-## TASKS:
-
-### Task 1
-Task 1 description 
-
-
-### Task 2
-Task 2 description 
 
  <hr>  
 ### Note: Reporting your work:
