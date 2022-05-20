@@ -54,9 +54,7 @@ Learn about tools and computing concepts necessary for HPC and CI systems
 | Bob Sinkovits<a name="sinkovits"></a>  | Director for Scientific Computing Applications [(website)](https://www.sdsc.edu/research/researcher_spotlight/sinkovits_robert.html) | [SDSC](https://sdsc.edu)|
 | Mahidhar Tatineni<a name="tatineni"></a> | Director of User Services [(website)](https://www.sdsc.edu/research/researcher_spotlight/tatineni_mahidhar.html)   |  [SDSC](https://sdsc.edu) |
 | Mary Thomas<a name="thomas"></a>  | Computational Data Scientist, Lead -  HPC Training  [(website)]( https://www.sdsc.edu/research/researcher_spotlight/thomas_mary.html)| [SDSC](https://sdsc.edu) |
-| Jeffrey Weekly<a name="weekley"></a> | Research IT Engagement and Support Manager [bio](https://campusdirectory.ucsc.edu/cd_detail?uid=jweekley) | [University of California Santa Cruz](https://www.ucsc.edu/) |
-| Cindy Wong | Events Specialist | [SDSC](https://sdsc.edu) |
-| Nicole Wolter | Computational and Data Science Research Specialist [(website)](https://www.linkedin.com/in/nicole-wolter-bbb94a3/)| [SDSC](https://sdsc.edu) |
+| Jeffrey Weekley<a name="weekley"></a> | Research IT Engagement and Support Manager [bio](https://campusdirectory.ucsc.edu/cd_detail?uid=jweekley) | [University of California Santa Cruz](https://www.ucsc.edu/) |
 | Paul Yu<a name="paulyu"></a> | Sr. Cloud Solutions Architect  [bio](https://www.linkedin.com/in/yupaul/) | [Microsoft](https://azure.microsoft.com/en-us/) |
 
 [ [Back to Top](#top) ]
