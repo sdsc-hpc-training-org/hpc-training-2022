@@ -13,9 +13,9 @@ In this workshop, you'll get hands-on experience accelerating Python codes with 
   
 ## READING AND PRESENTATIONS:
 * **Lecture material:** 
-   * [to be uploaded]()
+   * [xlab-pygpu.pdf](xlab-pygpu.pdf)
 * **Video Recording:** 
-   * [Interactive Video  - available in 3-5 days ]() // [YouTube](https://youtu.be/KeuBnRZhgmI)
+   * [Interactive Video](https://education.sdsc.edu/training/interactive/hpc_user_training_2022/week14/) // [YouTube](https://youtu.be/KeuBnRZhgmI)
 * **Source Code/Examples:** [If applicable]()
 
 ## TASKS:
